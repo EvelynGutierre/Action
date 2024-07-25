@@ -1,1 +1,342 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-21485",
+        "Products": [
+            {
+                "Product": "dash-core-components",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "dash-core-components"
+                ]
+            },
+            {
+                "Product": "dash-core-components",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "dash-core-components"
+                ]
+            },
+            {
+                "Product": "dash",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "dash"
+                ]
+            },
+            {
+                "Product": "dash-html-components",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "dash-html-components"
+                ]
+            },
+            {
+                "Product": "dash-html-components",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "dash-html-components"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21488",
+        "Products": [
+            {
+                "Product": "network",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "network"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21491",
+        "Products": [
+            {
+                "Product": "svix",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "svix"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21502",
+        "Products": [
+            {
+                "Product": "fastecdsa",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "fastecdsa"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21503",
+        "Products": [
+            {
+                "Product": "black",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "black"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21513",
+        "Products": [
+            {
+                "Product": "langchain-experimental",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "langchain-experimental"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21520",
+        "Products": [
+            {
+                "Product": "djangorestframework",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "djangorestframework"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21522",
+        "Products": [
+            {
+                "Product": "audify",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "audify"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21523",
+        "Products": [
+            {
+                "Product": "images",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "images"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21526",
+        "Products": [
+            {
+                "Product": "speaker",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "speaker"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21622",
+        "Products": [
+            {
+                "Product": "cms",
+                "Vendor": "craftcms",
+                "Matched Packages": [
+                    "cms"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21624",
+        "Products": [
+            {
+                "Product": "nonebot2",
+                "Vendor": "nonebot",
+                "Matched Packages": [
+                    "nonebot2"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21630",
+        "Products": [
+            {
+                "Product": "zulip",
+                "Vendor": "zulip",
+                "Matched Packages": [
+                    "zulip"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21631",
+        "Products": [
+            {
+                "Product": "vapor",
+                "Vendor": "vapor",
+                "Matched Packages": [
+                    "vapor"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21638",
+        "Products": [
+            {
+                "Product": "ipam",
+                "Vendor": "Azure",
+                "Matched Packages": [
+                    "ipam"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21639",
+        "Products": [
+            {
+                "Product": "cef",
+                "Vendor": "chromiumembedded",
+                "Matched Packages": [
+                    "cef"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21640",
+        "Products": [
+            {
+                "Product": "cef",
+                "Vendor": "chromiumembedded",
+                "Matched Packages": [
+                    "cef"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21642",
+        "Products": [
+            {
+                "Product": "dtale",
+                "Vendor": "man-group",
+                "Matched Packages": [
+                    "dtale"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21644",
+        "Products": [
+            {
+                "Product": "pyload",
+                "Vendor": "pyload",
+                "Matched Packages": [
+                    "pyload"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21645",
+        "Products": [
+            {
+                "Product": "pyload",
+                "Vendor": "pyload",
+                "Matched Packages": [
+                    "pyload"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21647",
+        "Products": [
+            {
+                "Product": "puma",
+                "Vendor": "puma",
+                "Matched Packages": [
+                    "puma"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21649",
+        "Products": [
+            {
+                "Product": "vantage6",
+                "Vendor": "vantage6",
+                "Matched Packages": [
+                    "vantage6"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21653",
+        "Products": [
+            {
+                "Product": "vantage6",
+                "Vendor": "vantage6",
+                "Matched Packages": [
+                    "vantage6"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21655",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21670",
+        "Products": [
+            {
+                "Product": "ursa",
+                "Vendor": "hyperledger-archives",
+                "Matched Packages": [
+                    "ursa"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-21671",
+        "Products": [
+            {
+                "Product": "vantage6",
+                "Vendor": "vantage6",
+                "Matched Packages": [
+                    "vantage6"
+                ]
+            }
+        ]
+    }
+]

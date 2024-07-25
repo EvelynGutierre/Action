@@ -1,1 +1,374 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-23322",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23323",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23324",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23325",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23326",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23327",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23329",
+        "Products": [
+            {
+                "Product": "changedetection.io",
+                "Vendor": "dgtlmoon",
+                "Matched Packages": [
+                    "changedetection.io"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23331",
+        "Products": [
+            {
+                "Product": "vite",
+                "Vendor": "vitejs",
+                "Matched Packages": [
+                    "vite"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23334",
+        "Products": [
+            {
+                "Product": "aiohttp",
+                "Vendor": "aio-libs",
+                "Matched Packages": [
+                    "aiohttp"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23341",
+        "Products": [
+            {
+                "Product": "TuiTse-TsuSin",
+                "Vendor": "i3thuan5",
+                "Matched Packages": [
+                    "TuiTse-TsuSin"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23345",
+        "Products": [
+            {
+                "Product": "nautobot",
+                "Vendor": "nautobot",
+                "Matched Packages": [
+                    "nautobot"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23346",
+        "Products": [
+            {
+                "Product": "pymatgen",
+                "Vendor": "materialsproject",
+                "Matched Packages": [
+                    "pymatgen"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23633",
+        "Products": [
+            {
+                "Product": "label-studio",
+                "Vendor": "HumanSignal",
+                "Matched Packages": [
+                    "label-studio"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23637",
+        "Products": [
+            {
+                "Product": "OctoPrint",
+                "Vendor": "OctoPrint",
+                "Matched Packages": [
+                    "OctoPrint"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23638",
+        "Products": [
+            {
+                "Product": "squid",
+                "Vendor": "squid-cache",
+                "Matched Packages": [
+                    "squid"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23641",
+        "Products": [
+            {
+                "Product": "kit",
+                "Vendor": "sveltejs",
+                "Matched Packages": [
+                    "kit"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23645",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23649",
+        "Products": [
+            {
+                "Product": "lemmy",
+                "Vendor": "LemmyNet",
+                "Matched Packages": [
+                    "lemmy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23650",
+        "Products": [
+            {
+                "Product": "buildkit",
+                "Vendor": "moby",
+                "Matched Packages": [
+                    "buildkit"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23651",
+        "Products": [
+            {
+                "Product": "buildkit",
+                "Vendor": "moby",
+                "Matched Packages": [
+                    "buildkit"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23652",
+        "Products": [
+            {
+                "Product": "buildkit",
+                "Vendor": "moby",
+                "Matched Packages": [
+                    "buildkit"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23653",
+        "Products": [
+            {
+                "Product": "buildkit",
+                "Vendor": "moby",
+                "Matched Packages": [
+                    "buildkit"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23817",
+        "Products": [
+            {
+                "Product": "dolibarr",
+                "Vendor": "Dolibarr",
+                "Matched Packages": [
+                    "dolibarr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23823",
+        "Products": [
+            {
+                "Product": "vantage6",
+                "Vendor": "vantage6",
+                "Matched Packages": [
+                    "vantage6"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23829",
+        "Products": [
+            {
+                "Product": "aiohttp",
+                "Vendor": "aio-libs",
+                "Matched Packages": [
+                    "aiohttp"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23834",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23947",
+        "Products": [
+            {
+                "Product": "libigl",
+                "Vendor": "libigl",
+                "Matched Packages": [
+                    "libigl"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23948",
+        "Products": [
+            {
+                "Product": "libigl",
+                "Vendor": "libigl",
+                "Matched Packages": [
+                    "libigl"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23949",
+        "Products": [
+            {
+                "Product": "libigl",
+                "Vendor": "libigl",
+                "Matched Packages": [
+                    "libigl"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23950",
+        "Products": [
+            {
+                "Product": "libigl",
+                "Vendor": "libigl",
+                "Matched Packages": [
+                    "libigl"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-23951",
+        "Products": [
+            {
+                "Product": "libigl",
+                "Vendor": "libigl",
+                "Matched Packages": [
+                    "libigl"
+                ]
+            }
+        ]
+    }
+]

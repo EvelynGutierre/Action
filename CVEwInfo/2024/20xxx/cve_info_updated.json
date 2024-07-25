@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-20827",
+        "Products": [
+            {
+                "Product": "Gallery",
+                "Vendor": "Samsung Mobile",
+                "Matched Packages": [
+                    "Gallery"
+                ]
+            }
+        ]
+    }
+]

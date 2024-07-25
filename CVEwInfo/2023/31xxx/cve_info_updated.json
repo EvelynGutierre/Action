@@ -1,1 +1,134 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-31079",
+        "Products": [
+            {
+                "Product": "Tippy",
+                "Vendor": "Chris Roberts",
+                "Matched Packages": [
+                    "Tippy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-31128",
+        "Products": [
+            {
+                "Product": "cookbook",
+                "Vendor": "nextcloud",
+                "Matched Packages": [
+                    "cookbook"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-31132",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-31135",
+        "Products": [
+            {
+                "Product": "dgraph",
+                "Vendor": "dgraph-io",
+                "Matched Packages": [
+                    "dgraph"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-31140",
+        "Products": [
+            {
+                "Product": "openproject",
+                "Vendor": "opf",
+                "Matched Packages": [
+                    "openproject"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-31141",
+        "Products": [
+            {
+                "Product": "security",
+                "Vendor": "opensearch-project",
+                "Matched Packages": [
+                    "security"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-31142",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-31143",
+        "Products": [
+            {
+                "Product": "mage-ai",
+                "Vendor": "mage-ai",
+                "Matched Packages": [
+                    "mage-ai"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-31144",
+        "Products": [
+            {
+                "Product": "cms",
+                "Vendor": "craftcms",
+                "Matched Packages": [
+                    "cms"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-31145",
+        "Products": [
+            {
+                "Product": "online",
+                "Vendor": "CollaboraOnline",
+                "Matched Packages": [
+                    "online"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-31146",
+        "Products": [
+            {
+                "Product": "vyper",
+                "Vendor": "vyperlang",
+                "Matched Packages": [
+                    "vyper"
+                ]
+            }
+        ]
+    }
+]

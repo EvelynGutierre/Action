@@ -1,1 +1,292 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-29018",
+        "Products": [
+            {
+                "Product": "moby",
+                "Vendor": "moby",
+                "Matched Packages": [
+                    "moby"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29019",
+        "Products": [
+            {
+                "Product": "esphome",
+                "Vendor": "esphome",
+                "Matched Packages": [
+                    "esphome",
+                    "esphome",
+                    "esphome"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29025",
+        "Products": [
+            {
+                "Product": "netty",
+                "Vendor": "netty",
+                "Matched Packages": [
+                    "netty"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29028",
+        "Products": [
+            {
+                "Product": "memos",
+                "Vendor": "usememos",
+                "Matched Packages": [
+                    "memos"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29029",
+        "Products": [
+            {
+                "Product": "memos",
+                "Vendor": "usememos",
+                "Matched Packages": [
+                    "memos"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29030",
+        "Products": [
+            {
+                "Product": "memos",
+                "Vendor": "usememos",
+                "Matched Packages": [
+                    "memos"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29032",
+        "Products": [
+            {
+                "Product": "qiskit-ibm-runtime",
+                "Vendor": "Qiskit",
+                "Matched Packages": [
+                    "qiskit-ibm-runtime"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29033",
+        "Products": [
+            {
+                "Product": "oauthenticator",
+                "Vendor": "jupyterhub",
+                "Matched Packages": [
+                    "oauthenticator"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29041",
+        "Products": [
+            {
+                "Product": "express",
+                "Vendor": "expressjs",
+                "Matched Packages": [
+                    "express"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29042",
+        "Products": [
+            {
+                "Product": "translate",
+                "Vendor": "franciscop",
+                "Matched Packages": [
+                    "translate"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29181",
+        "Products": [
+            {
+                "Product": "strapi",
+                "Vendor": "strapi",
+                "Matched Packages": [
+                    "strapi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29182",
+        "Products": [
+            {
+                "Product": "online",
+                "Vendor": "CollaboraOnline",
+                "Matched Packages": [
+                    "online"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29186",
+        "Products": [
+            {
+                "Product": "bref",
+                "Vendor": "brefphp",
+                "Matched Packages": [
+                    "bref"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29187",
+        "Products": [
+            {
+                "Product": "issues",
+                "Vendor": "wixtoolset",
+                "Matched Packages": [
+                    "issues"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29188",
+        "Products": [
+            {
+                "Product": "issues",
+                "Vendor": "wixtoolset",
+                "Matched Packages": [
+                    "issues"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29199",
+        "Products": [
+            {
+                "Product": "nautobot",
+                "Vendor": "nautobot",
+                "Matched Packages": [
+                    "nautobot"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29882",
+        "Products": [
+            {
+                "Product": "srs",
+                "Vendor": "ossrs",
+                "Matched Packages": [
+                    "srs"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29888",
+        "Products": [
+            {
+                "Product": "saleor",
+                "Vendor": "saleor",
+                "Matched Packages": [
+                    "saleor"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29889",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29890",
+        "Products": [
+            {
+                "Product": "datalens",
+                "Vendor": "datalens-tech",
+                "Matched Packages": [
+                    "datalens"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29894",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29895",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29900",
+        "Products": [
+            {
+                "Product": "packager",
+                "Vendor": "electron",
+                "Matched Packages": [
+                    "packager"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-29905",
+        "Products": [
+            {
+                "Product": "DIRAC",
+                "Vendor": "DIRACGrid",
+                "Matched Packages": [
+                    "DIRAC"
+                ]
+            }
+        ]
+    }
+]

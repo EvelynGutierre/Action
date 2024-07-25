@@ -1,1 +1,296 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-34088",
+        "Products": [
+            {
+                "Product": "online",
+                "Vendor": "CollaboraOnline",
+                "Matched Packages": [
+                    "online"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-34092",
+        "Products": [
+            {
+                "Product": "vite",
+                "Vendor": "vitejs",
+                "Matched Packages": [
+                    "vite"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-34093",
+        "Products": [
+            {
+                "Product": "strapi",
+                "Vendor": "strapi",
+                "Matched Packages": [
+                    "strapi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-34094",
+        "Products": [
+            {
+                "Product": "ChuanhuChatGPT",
+                "Vendor": "GaiZhenbiao",
+                "Matched Packages": [
+                    "ChuanhuChatGPT"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-34105",
+        "Products": [
+            {
+                "Product": "srs",
+                "Vendor": "ossrs",
+                "Matched Packages": [
+                    "srs"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-34106",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-34107",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-34109",
+        "Products": [
+            {
+                "Product": "zxcvbn",
+                "Vendor": "zxcvbn-ts",
+                "Matched Packages": [
+                    "zxcvbn"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-34110",
+        "Products": [
+            {
+                "Product": "Flask-AppBuilder",
+                "Vendor": "dpgaspar",
+                "Matched Packages": [
+                    "Flask-AppBuilder"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-34233",
+        "Products": [
+            {
+                "Product": "snowflake-connector-python",
+                "Vendor": "snowflakedb",
+                "Matched Packages": [
+                    "snowflake-connector-python"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-34235",
+        "Products": [
+            {
+                "Product": "strapi",
+                "Vendor": "strapi",
+                "Matched Packages": [
+                    "strapi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-34239",
+        "Products": [
+            {
+                "Product": "gradio",
+                "Vendor": "gradio-app",
+                "Matched Packages": [
+                    "gradio"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-34241",
+        "Products": [
+            {
+                "Product": "cups",
+                "Vendor": "OpenPrinting",
+                "Matched Packages": [
+                    "cups"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-34244",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-34247",
+        "Products": [
+            {
+                "Product": "keystone",
+                "Vendor": "keystonejs",
+                "Matched Packages": [
+                    "keystone"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-34250",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-34318",
+        "Products": [
+            {
+                "Product": "sox",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "sox",
+                    "sox"
+                ]
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 6",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Fedora",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Extra Packages for Enterprise Linux",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-34432",
+        "Products": [
+            {
+                "Product": "sox",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "sox",
+                    "sox"
+                ]
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 6",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Fedora",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Extra Packages for Enterprise Linux",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-34449",
+        "Products": [
+            {
+                "Product": "ink",
+                "Vendor": "paritytech",
+                "Matched Packages": [
+                    "ink"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-34457",
+        "Products": [
+            {
+                "Product": "MechanicalSoup",
+                "Vendor": "MechanicalSoup",
+                "Matched Packages": [
+                    "MechanicalSoup"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-34462",
+        "Products": [
+            {
+                "Product": "netty",
+                "Vendor": "netty",
+                "Matched Packages": [
+                    "netty"
+                ]
+            }
+        ]
+    }
+]

@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-2410",
+        "Products": [
+            {
+                "Product": "protobuf",
+                "Vendor": "protocolbuffers",
+                "Matched Packages": [
+                    "protobuf"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-2831",
+        "Products": [
+            {
+                "Product": "Calendar",
+                "Vendor": "kieranoshea",
+                "Matched Packages": [
+                    "Calendar"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-2961",
+        "Products": [
+            {
+                "Product": "glibc",
+                "Vendor": "The GNU C Library",
+                "Matched Packages": [
+                    "glibc"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-2965",
+        "Products": [
+            {
+                "Product": "langchain-community",
+                "Vendor": "langchain",
+                "Matched Packages": [
+                    "langchain-community"
+                ]
+            }
+        ]
+    }
+]

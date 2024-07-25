@@ -1,1 +1,125 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-39302",
+        "Products": [
+            {
+                "Product": "bigbluebutton",
+                "Vendor": "bigbluebutton",
+                "Matched Packages": [
+                    "bigbluebutton"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-39305",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-39316",
+        "Products": [
+            {
+                "Product": "rack",
+                "Vendor": "rack",
+                "Matched Packages": [
+                    "rack"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-39317",
+        "Products": [
+            {
+                "Product": "wagtail",
+                "Vendor": "wagtail",
+                "Matched Packages": [
+                    "wagtail"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-39695",
+        "Products": [
+            {
+                "Product": "exiv2",
+                "Vendor": "Exiv2",
+                "Matched Packages": [
+                    "exiv2",
+                    "exiv2",
+                    "exiv2"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-39696",
+        "Products": [
+            {
+                "Product": "evmos",
+                "Vendor": "evmos",
+                "Matched Packages": [
+                    "evmos",
+                    "evmos"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-39897",
+        "Products": [
+            {
+                "Product": "zot",
+                "Vendor": "project-zot",
+                "Matched Packages": [
+                    "zot"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-39900",
+        "Products": [
+            {
+                "Product": "reporting",
+                "Vendor": "opensearch-project",
+                "Matched Packages": [
+                    "reporting"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-39903",
+        "Products": [
+            {
+                "Product": "solara",
+                "Vendor": "widgetti",
+                "Matched Packages": [
+                    "solara"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-39905",
+        "Products": [
+            {
+                "Product": "Red-DiscordBot",
+                "Vendor": "Cog-Creators",
+                "Matched Packages": [
+                    "Red-DiscordBot"
+                ]
+            }
+        ]
+    }
+]

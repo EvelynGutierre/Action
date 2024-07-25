@@ -1,1 +1,291 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-37263",
+        "Products": [
+            {
+                "Product": "strapi",
+                "Vendor": "strapi",
+                "Matched Packages": [
+                    "strapi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37264",
+        "Products": [
+            {
+                "Product": "pipeline",
+                "Vendor": "tektoncd",
+                "Matched Packages": [
+                    "pipeline"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37269",
+        "Products": [
+            {
+                "Product": "winter",
+                "Vendor": "wintercms",
+                "Matched Packages": [
+                    "winter"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37271",
+        "Products": [
+            {
+                "Product": "RestrictedPython",
+                "Vendor": "zopefoundation",
+                "Matched Packages": [
+                    "RestrictedPython"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37276",
+        "Products": [
+            {
+                "Product": "aiohttp",
+                "Vendor": "aio-libs",
+                "Matched Packages": [
+                    "aiohttp"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37278",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37279",
+        "Products": [
+            {
+                "Product": "faktory",
+                "Vendor": "contribsys",
+                "Matched Packages": [
+                    "faktory"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37457",
+        "Products": [
+            {
+                "Product": "asterisk",
+                "Vendor": "asterisk",
+                "Matched Packages": [
+                    "asterisk"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37467",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37470",
+        "Products": [
+            {
+                "Product": "metabase",
+                "Vendor": "metabase",
+                "Matched Packages": [
+                    "metabase"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37473",
+        "Products": [
+            {
+                "Product": "collection",
+                "Vendor": "zenstruck",
+                "Matched Packages": [
+                    "collection"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37474",
+        "Products": [
+            {
+                "Product": "copyparty",
+                "Vendor": "9001",
+                "Matched Packages": [
+                    "copyparty"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37475",
+        "Products": [
+            {
+                "Product": "avro",
+                "Vendor": "hamba",
+                "Matched Packages": [
+                    "avro"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37478",
+        "Products": [
+            {
+                "Product": "pnpm",
+                "Vendor": "pnpm",
+                "Matched Packages": [
+                    "pnpm"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37480",
+        "Products": [
+            {
+                "Product": "fides",
+                "Vendor": "ethyca",
+                "Matched Packages": [
+                    "fides"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37481",
+        "Products": [
+            {
+                "Product": "fides",
+                "Vendor": "ethyca",
+                "Matched Packages": [
+                    "fides"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37896",
+        "Products": [
+            {
+                "Product": "nuclei",
+                "Vendor": "projectdiscovery",
+                "Matched Packages": [
+                    "nuclei"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37899",
+        "Products": [
+            {
+                "Product": "feathers",
+                "Vendor": "feathersjs",
+                "Matched Packages": [
+                    "feathers"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37900",
+        "Products": [
+            {
+                "Product": "crossplane",
+                "Vendor": "crossplane",
+                "Matched Packages": [
+                    "crossplane"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37901",
+        "Products": [
+            {
+                "Product": "indico",
+                "Vendor": "indico",
+                "Matched Packages": [
+                    "indico"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37902",
+        "Products": [
+            {
+                "Product": "vyper",
+                "Vendor": "vyperlang",
+                "Matched Packages": [
+                    "vyper"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37904",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37906",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-37918",
+        "Products": [
+            {
+                "Product": "dapr",
+                "Vendor": "dapr",
+                "Matched Packages": [
+                    "dapr",
+                    "dapr"
+                ]
+            }
+        ]
+    }
+]

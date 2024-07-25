@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-33599",
+        "Products": [
+            {
+                "Product": "glibc",
+                "Vendor": "The GNU C Library",
+                "Matched Packages": [
+                    "glibc"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-33600",
+        "Products": [
+            {
+                "Product": "glibc",
+                "Vendor": "The GNU C Library",
+                "Matched Packages": [
+                    "glibc"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-33601",
+        "Products": [
+            {
+                "Product": "glibc",
+                "Vendor": "The GNU C Library",
+                "Matched Packages": [
+                    "glibc"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-33602",
+        "Products": [
+            {
+                "Product": "glibc",
+                "Vendor": "The GNU C Library",
+                "Matched Packages": [
+                    "glibc"
+                ]
+            }
+        ]
+    }
+]

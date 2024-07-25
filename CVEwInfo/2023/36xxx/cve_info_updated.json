@@ -1,1 +1,230 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-36464",
+        "Products": [
+            {
+                "Product": "pypdf",
+                "Vendor": "py-pdf",
+                "Matched Packages": [
+                    "pypdf"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-36466",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-36472",
+        "Products": [
+            {
+                "Product": "strapi",
+                "Vendor": "strapi",
+                "Matched Packages": [
+                    "strapi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-36473",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-36807",
+        "Products": [
+            {
+                "Product": "pypdf",
+                "Vendor": "py-pdf",
+                "Matched Packages": [
+                    "pypdf"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-36808",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-36810",
+        "Products": [
+            {
+                "Product": "pypdf",
+                "Vendor": "py-pdf",
+                "Matched Packages": [
+                    "pypdf"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-36811",
+        "Products": [
+            {
+                "Product": "borg",
+                "Vendor": "borgbackup",
+                "Matched Packages": [
+                    "borg"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-36813",
+        "Products": [
+            {
+                "Product": "kanboard",
+                "Vendor": "kanboard",
+                "Matched Packages": [
+                    "kanboard"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-36814",
+        "Products": [
+            {
+                "Product": "Products.CMFCore",
+                "Vendor": "zopefoundation",
+                "Matched Packages": [
+                    "Products.CMFCore"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-36817",
+        "Products": [
+            {
+                "Product": "website",
+                "Vendor": "tktchurch",
+                "Matched Packages": [
+                    "website"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-36818",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-36823",
+        "Products": [
+            {
+                "Product": "sanitize",
+                "Vendor": "rgrove",
+                "Matched Packages": [
+                    "sanitize"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-36824",
+        "Products": [
+            {
+                "Product": "redis",
+                "Vendor": "redis",
+                "Matched Packages": [
+                    "redis"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-36826",
+        "Products": [
+            {
+                "Product": "sentry",
+                "Vendor": "getsentry",
+                "Matched Packages": [
+                    "sentry"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-36827",
+        "Products": [
+            {
+                "Product": "fides",
+                "Vendor": "ethyca",
+                "Matched Packages": [
+                    "fides"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-36828",
+        "Products": [
+            {
+                "Product": "cms",
+                "Vendor": "statamic",
+                "Matched Packages": [
+                    "cms"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-36829",
+        "Products": [
+            {
+                "Product": "sentry",
+                "Vendor": "getsentry",
+                "Matched Packages": [
+                    "sentry"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-36830",
+        "Products": [
+            {
+                "Product": "sqlfluff",
+                "Vendor": "sqlfluff",
+                "Matched Packages": [
+                    "sqlfluff"
+                ]
+            }
+        ]
+    }
+]

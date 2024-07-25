@@ -1,1 +1,472 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-28107",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28111",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28112",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28113",
+        "Products": [
+            {
+                "Product": "russh",
+                "Vendor": "warp-tech",
+                "Matched Packages": [
+                    "russh"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28115",
+        "Products": [
+            {
+                "Product": "snappy",
+                "Vendor": "KnpLabs",
+                "Matched Packages": [
+                    "snappy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28119",
+        "Products": [
+            {
+                "Product": "saml",
+                "Vendor": "crewjam",
+                "Matched Packages": [
+                    "saml"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28425",
+        "Products": [
+            {
+                "Product": "redis",
+                "Vendor": "redis",
+                "Matched Packages": [
+                    "redis"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28431",
+        "Products": [
+            {
+                "Product": "frontier",
+                "Vendor": "paritytech",
+                "Matched Packages": [
+                    "frontier"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28432",
+        "Products": [
+            {
+                "Product": "minio",
+                "Vendor": "minio",
+                "Matched Packages": [
+                    "minio"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28433",
+        "Products": [
+            {
+                "Product": "minio",
+                "Vendor": "minio",
+                "Matched Packages": [
+                    "minio"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28434",
+        "Products": [
+            {
+                "Product": "minio",
+                "Vendor": "minio",
+                "Matched Packages": [
+                    "minio"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28436",
+        "Products": [
+            {
+                "Product": "tailscale",
+                "Vendor": "tailscale",
+                "Matched Packages": [
+                    "tailscale",
+                    "tailscale",
+                    "tailscale"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28440",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28445",
+        "Products": [
+            {
+                "Product": "deno",
+                "Vendor": "denoland",
+                "Matched Packages": [
+                    "deno"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28446",
+        "Products": [
+            {
+                "Product": "deno",
+                "Vendor": "denoland",
+                "Matched Packages": [
+                    "deno"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28447",
+        "Products": [
+            {
+                "Product": "smarty",
+                "Vendor": "smarty-php",
+                "Matched Packages": [
+                    "smarty"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28623",
+        "Products": [
+            {
+                "Product": "zulip",
+                "Vendor": "zulip",
+                "Matched Packages": [
+                    "zulip"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28628",
+        "Products": [
+            {
+                "Product": "uri",
+                "Vendor": "lambdaisland",
+                "Matched Packages": [
+                    "uri"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28629",
+        "Products": [
+            {
+                "Product": "gocd",
+                "Vendor": "gocd",
+                "Matched Packages": [
+                    "gocd"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28630",
+        "Products": [
+            {
+                "Product": "gocd",
+                "Vendor": "gocd",
+                "Matched Packages": [
+                    "gocd"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28632",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28633",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28634",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28635",
+        "Products": [
+            {
+                "Product": "vantage6",
+                "Vendor": "vantage6",
+                "Matched Packages": [
+                    "vantage6"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28636",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28639",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28640",
+        "Products": [
+            {
+                "Product": "apiman",
+                "Vendor": "apiman",
+                "Matched Packages": [
+                    "apiman"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28836",
+        "Products": [
+            {
+                "Product": "wagtail",
+                "Vendor": "wagtail",
+                "Matched Packages": [
+                    "wagtail"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28837",
+        "Products": [
+            {
+                "Product": "wagtail",
+                "Vendor": "wagtail",
+                "Matched Packages": [
+                    "wagtail"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28838",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28840",
+        "Products": [
+            {
+                "Product": "moby",
+                "Vendor": "moby",
+                "Matched Packages": [
+                    "moby"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28841",
+        "Products": [
+            {
+                "Product": "moby",
+                "Vendor": "moby",
+                "Matched Packages": [
+                    "moby"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28842",
+        "Products": [
+            {
+                "Product": "moby",
+                "Vendor": "moby",
+                "Matched Packages": [
+                    "moby"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28843",
+        "Products": [
+            {
+                "Product": "paypal",
+                "Vendor": "202ecommerce",
+                "Matched Packages": [
+                    "paypal"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28849",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28852",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28854",
+        "Products": [
+            {
+                "Product": "nophp",
+                "Vendor": "paijp",
+                "Matched Packages": [
+                    "nophp"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28855",
+        "Products": [
+            {
+                "Product": "fields",
+                "Vendor": "pluginsGLPI",
+                "Matched Packages": [
+                    "fields"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-28856",
+        "Products": [
+            {
+                "Product": "redis",
+                "Vendor": "redis",
+                "Matched Packages": [
+                    "redis"
+                ]
+            }
+        ]
+    }
+]

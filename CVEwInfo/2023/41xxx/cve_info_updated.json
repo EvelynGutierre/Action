@@ -1,1 +1,482 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-41039",
+        "Products": [
+            {
+                "Product": "RestrictedPython",
+                "Vendor": "zopefoundation",
+                "Matched Packages": [
+                    "RestrictedPython"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41040",
+        "Products": [
+            {
+                "Product": "GitPython",
+                "Vendor": "gitpython-developers",
+                "Matched Packages": [
+                    "GitPython"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41042",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41043",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41047",
+        "Products": [
+            {
+                "Product": "OctoPrint",
+                "Vendor": "OctoPrint",
+                "Matched Packages": [
+                    "OctoPrint"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41048",
+        "Products": [
+            {
+                "Product": "plone.namedfile",
+                "Vendor": "plone",
+                "Matched Packages": [
+                    "plone.namedfile"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41050",
+        "Products": [
+            {
+                "Product": "AccessControl",
+                "Vendor": "zopefoundation",
+                "Matched Packages": [
+                    "AccessControl"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41052",
+        "Products": [
+            {
+                "Product": "vyper",
+                "Vendor": "vyperlang",
+                "Matched Packages": [
+                    "vyper"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41053",
+        "Products": [
+            {
+                "Product": "redis",
+                "Vendor": "redis",
+                "Matched Packages": [
+                    "redis"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41056",
+        "Products": [
+            {
+                "Product": "redis",
+                "Vendor": "redis",
+                "Matched Packages": [
+                    "redis"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41057",
+        "Products": [
+            {
+                "Product": "hyper-bump-it",
+                "Vendor": "plannigan",
+                "Matched Packages": [
+                    "hyper-bump-it"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41317",
+        "Products": [
+            {
+                "Product": "router",
+                "Vendor": "apollographql",
+                "Matched Packages": [
+                    "router"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41319",
+        "Products": [
+            {
+                "Product": "fides",
+                "Vendor": "ethyca",
+                "Matched Packages": [
+                    "fides"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41320",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41321",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41322",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41323",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41324",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41326",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41327",
+        "Products": [
+            {
+                "Product": "wiremock",
+                "Vendor": "wiremock",
+                "Matched Packages": [
+                    "wiremock"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41328",
+        "Products": [
+            {
+                "Product": "frappe",
+                "Vendor": "frappe",
+                "Matched Packages": [
+                    "frappe"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41329",
+        "Products": [
+            {
+                "Product": "wiremock",
+                "Vendor": "wiremock",
+                "Matched Packages": [
+                    "wiremock"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41330",
+        "Products": [
+            {
+                "Product": "snappy",
+                "Vendor": "KnpLabs",
+                "Matched Packages": [
+                    "snappy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41334",
+        "Products": [
+            {
+                "Product": "astropy",
+                "Vendor": "astropy",
+                "Matched Packages": [
+                    "astropy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41335",
+        "Products": [
+            {
+                "Product": "synapse",
+                "Vendor": "matrix-org",
+                "Matched Packages": [
+                    "synapse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41337",
+        "Products": [
+            {
+                "Product": "h2o",
+                "Vendor": "h2o",
+                "Matched Packages": [
+                    "h2o"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41338",
+        "Products": [
+            {
+                "Product": "fiber",
+                "Vendor": "gofiber",
+                "Matched Packages": [
+                    "fiber"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41880",
+        "Products": [
+            {
+                "Product": "wasmtime",
+                "Vendor": "bytecodealliance",
+                "Matched Packages": [
+                    "wasmtime"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41881",
+        "Products": [
+            {
+                "Product": "vantage6",
+                "Vendor": "vantage6",
+                "Matched Packages": [
+                    "vantage6"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41882",
+        "Products": [
+            {
+                "Product": "vantage6",
+                "Vendor": "vantage6",
+                "Matched Packages": [
+                    "vantage6"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41885",
+        "Products": [
+            {
+                "Product": "piccolo",
+                "Vendor": "piccolo-orm",
+                "Matched Packages": [
+                    "piccolo"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41888",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41892",
+        "Products": [
+            {
+                "Product": "cms",
+                "Vendor": "craftcms",
+                "Matched Packages": [
+                    "cms"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41893",
+        "Products": [
+            {
+                "Product": "core",
+                "Vendor": "home-assistant",
+                "Matched Packages": [
+                    "core"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41894",
+        "Products": [
+            {
+                "Product": "core",
+                "Vendor": "home-assistant",
+                "Matched Packages": [
+                    "core"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41895",
+        "Products": [
+            {
+                "Product": "core",
+                "Vendor": "home-assistant",
+                "Matched Packages": [
+                    "core"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41896",
+        "Products": [
+            {
+                "Product": "core",
+                "Vendor": "home-assistant",
+                "Matched Packages": [
+                    "core"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41897",
+        "Products": [
+            {
+                "Product": "core",
+                "Vendor": "home-assistant",
+                "Matched Packages": [
+                    "core"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41898",
+        "Products": [
+            {
+                "Product": "core",
+                "Vendor": "home-assistant",
+                "Matched Packages": [
+                    "core"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-41899",
+        "Products": [
+            {
+                "Product": "core",
+                "Vendor": "home-assistant",
+                "Matched Packages": [
+                    "core"
+                ]
+            }
+        ]
+    }
+]

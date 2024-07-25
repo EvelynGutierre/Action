@@ -1,1 +1,303 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-34061",
+        "Products": [
+            {
+                "Product": "changedetection.io",
+                "Vendor": "dgtlmoon",
+                "Matched Packages": [
+                    "changedetection.io"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34062",
+        "Products": [
+            {
+                "Product": "tqdm",
+                "Vendor": "tqdm",
+                "Matched Packages": [
+                    "tqdm"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34063",
+        "Products": [
+            {
+                "Product": "vodozemac",
+                "Vendor": "matrix-org",
+                "Matched Packages": [
+                    "vodozemac"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34065",
+        "Products": [
+            {
+                "Product": "strapi",
+                "Vendor": "strapi",
+                "Matched Packages": [
+                    "strapi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34066",
+        "Products": [
+            {
+                "Product": "wings",
+                "Vendor": "pterodactyl",
+                "Matched Packages": [
+                    "wings"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34067",
+        "Products": [
+            {
+                "Product": "panel",
+                "Vendor": "pterodactyl",
+                "Matched Packages": [
+                    "panel"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34068",
+        "Products": [
+            {
+                "Product": "wings",
+                "Vendor": "pterodactyl",
+                "Matched Packages": [
+                    "wings"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34074",
+        "Products": [
+            {
+                "Product": "frappe",
+                "Vendor": "frappe",
+                "Matched Packages": [
+                    "frappe"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34078",
+        "Products": [
+            {
+                "Product": "html-sanitizer",
+                "Vendor": "matthiask",
+                "Matched Packages": [
+                    "html-sanitizer"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34079",
+        "Products": [
+            {
+                "Product": "app",
+                "Vendor": "octo-sts",
+                "Matched Packages": [
+                    "app"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34083",
+        "Products": [
+            {
+                "Product": "aiosmtpd",
+                "Vendor": "aio-libs",
+                "Matched Packages": [
+                    "aiosmtpd"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34084",
+        "Products": [
+            {
+                "Product": "minder",
+                "Vendor": "stacklok",
+                "Matched Packages": [
+                    "minder"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34340",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34341",
+        "Products": [
+            {
+                "Product": "trix",
+                "Vendor": "basecamp",
+                "Matched Packages": [
+                    "trix"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34346",
+        "Products": [
+            {
+                "Product": "deno",
+                "Vendor": "denoland",
+                "Matched Packages": [
+                    "deno"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34359",
+        "Products": [
+            {
+                "Product": "llama-cpp-python",
+                "Vendor": "abetlen",
+                "Matched Packages": [
+                    "llama-cpp-python"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34362",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34363",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34364",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34414",
+        "Products": [
+            {
+                "Product": "raindrops",
+                "Vendor": "Nobita",
+                "Matched Packages": [
+                    "raindrops"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34694",
+        "Products": [
+            {
+                "Product": "lnbits",
+                "Vendor": "lnbits",
+                "Matched Packages": [
+                    "lnbits"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34707",
+        "Products": [
+            {
+                "Product": "nautobot",
+                "Vendor": "nautobot",
+                "Matched Packages": [
+                    "nautobot"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34710",
+        "Products": [
+            {
+                "Product": "wiki",
+                "Vendor": "requarks",
+                "Matched Packages": [
+                    "wiki",
+                    "wiki"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34713",
+        "Products": [
+            {
+                "Product": "sshproxy",
+                "Vendor": "cea-hpc",
+                "Matched Packages": [
+                    "sshproxy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-34715",
+        "Products": [
+            {
+                "Product": "fides",
+                "Vendor": "ethyca",
+                "Matched Packages": [
+                    "fides"
+                ]
+            }
+        ]
+    }
+]

@@ -1,1 +1,163 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-38330",
+        "Products": [
+            {
+                "Product": "i",
+                "Vendor": "IBM",
+                "Matched Packages": [
+                    "i"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-38351",
+        "Products": [
+            {
+                "Product": "pocketbase",
+                "Vendor": "pocketbase",
+                "Matched Packages": [
+                    "pocketbase"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-38358",
+        "Products": [
+            {
+                "Product": "wasmer",
+                "Vendor": "wasmerio",
+                "Matched Packages": [
+                    "wasmer"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-38359",
+        "Products": [
+            {
+                "Product": "lnd",
+                "Vendor": "lightningnetwork",
+                "Matched Packages": [
+                    "lnd"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-38360",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-38361",
+        "Products": [
+            {
+                "Product": "spicedb",
+                "Vendor": "authzed",
+                "Matched Packages": [
+                    "spicedb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-38363",
+        "Products": [
+            {
+                "Product": "airbyte",
+                "Vendor": "airbytehq",
+                "Matched Packages": [
+                    "airbyte"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-38513",
+        "Products": [
+            {
+                "Product": "fiber",
+                "Vendor": "gofiber",
+                "Matched Packages": [
+                    "fiber"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-38518",
+        "Products": [
+            {
+                "Product": "bigbluebutton",
+                "Vendor": "bigbluebutton",
+                "Matched Packages": [
+                    "bigbluebutton"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-38519",
+        "Products": [
+            {
+                "Product": "yt-dlp",
+                "Vendor": "yt-dlp",
+                "Matched Packages": [
+                    "yt-dlp"
+                ]
+            },
+            {
+                "Product": "youtube-dl",
+                "Vendor": "ytdl-org",
+                "Matched Packages": []
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-38526",
+        "Products": [
+            {
+                "Product": "pdoc",
+                "Vendor": "mitmproxy",
+                "Matched Packages": [
+                    "pdoc"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-38531",
+        "Products": [
+            {
+                "Product": "nix",
+                "Vendor": "NixOS",
+                "Matched Packages": [
+                    "nix"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-38537",
+        "Products": [
+            {
+                "Product": "fides",
+                "Vendor": "ethyca",
+                "Matched Packages": [
+                    "fides"
+                ]
+            }
+        ]
+    }
+]

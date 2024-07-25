@@ -1,1 +1,266 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-39343",
+        "Products": [
+            {
+                "Product": "sulu",
+                "Vendor": "sulu",
+                "Matched Packages": [
+                    "sulu"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-39345",
+        "Products": [
+            {
+                "Product": "strapi",
+                "Vendor": "strapi",
+                "Matched Packages": [
+                    "strapi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-39349",
+        "Products": [
+            {
+                "Product": "sentry",
+                "Vendor": "getsentry",
+                "Matched Packages": [
+                    "sentry"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-39357",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-39358",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-39359",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-39360",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-39361",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-39362",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-39363",
+        "Products": [
+            {
+                "Product": "vyper",
+                "Vendor": "vyperlang",
+                "Matched Packages": [
+                    "vyper"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-39364",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-39365",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-39366",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-39510",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-39511",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-39512",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-39513",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-39514",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-39515",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-39516",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-39531",
+        "Products": [
+            {
+                "Product": "sentry",
+                "Vendor": "getsentry",
+                "Matched Packages": [
+                    "sentry"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-39967",
+        "Products": [
+            {
+                "Product": "wiremock",
+                "Vendor": "wiremock",
+                "Matched Packages": [
+                    "wiremock"
+                ]
+            }
+        ]
+    }
+]

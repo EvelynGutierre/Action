@@ -1,1 +1,62 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-4068",
+        "Products": [
+            {
+                "Product": "braces",
+                "Vendor": "micromatch",
+                "Matched Packages": [
+                    "braces"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-4388",
+        "Products": [
+            {
+                "Product": "cas",
+                "Vendor": "Unknown",
+                "Matched Packages": [
+                    "cas"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-4399",
+        "Products": [
+            {
+                "Product": "cas",
+                "Vendor": "Unknown",
+                "Matched Packages": [
+                    "cas"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-4859",
+        "Products": [
+            {
+                "Product": "solidus",
+                "Vendor": "solidus",
+                "Matched Packages": [
+                    "solidus"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-4936",
+        "Products": [
+            {
+                "Product": "Canto",
+                "Vendor": "flightbycanto",
+                "Matched Packages": [
+                    "Canto"
+                ]
+            }
+        ]
+    }
+]

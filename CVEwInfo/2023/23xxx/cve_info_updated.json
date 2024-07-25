@@ -1,1 +1,278 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-23470",
+        "Products": [
+            {
+                "Product": "i",
+                "Vendor": "IBM",
+                "Matched Packages": [
+                    "i"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-23608",
+        "Products": [
+            {
+                "Product": "spotipy",
+                "Vendor": "spotipy-dev",
+                "Matched Packages": [
+                    "spotipy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-23610",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-23612",
+        "Products": [
+            {
+                "Product": "security",
+                "Vendor": "opensearch-project",
+                "Matched Packages": [
+                    "security"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-23613",
+        "Products": [
+            {
+                "Product": "security",
+                "Vendor": "opensearch-project",
+                "Matched Packages": [
+                    "security"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-23615",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-23616",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-23620",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-23621",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-23622",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-23624",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-23627",
+        "Products": [
+            {
+                "Product": "sanitize",
+                "Vendor": "rgrove",
+                "Matched Packages": [
+                    "sanitize"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-23628",
+        "Products": [
+            {
+                "Product": "metabase",
+                "Vendor": "metabase",
+                "Matched Packages": [
+                    "metabase"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-23629",
+        "Products": [
+            {
+                "Product": "metabase",
+                "Vendor": "metabase",
+                "Matched Packages": [
+                    "metabase"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-23630",
+        "Products": [
+            {
+                "Product": "eta",
+                "Vendor": "eta-dev",
+                "Matched Packages": [
+                    "eta"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-23759",
+        "Products": [
+            {
+                "Product": "fizz",
+                "Vendor": "Facebook",
+                "Matched Packages": [
+                    "fizz"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-23926",
+        "Products": [
+            {
+                "Product": "apoc",
+                "Vendor": "neo4j",
+                "Matched Packages": [
+                    "apoc"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-23927",
+        "Products": [
+            {
+                "Product": "cms",
+                "Vendor": "craftcms",
+                "Matched Packages": [
+                    "cms"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-23929",
+        "Products": [
+            {
+                "Product": "vantage6",
+                "Vendor": "vantage6",
+                "Matched Packages": [
+                    "vantage6"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-23930",
+        "Products": [
+            {
+                "Product": "vantage6",
+                "Vendor": "vantage6",
+                "Matched Packages": [
+                    "vantage6"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-23931",
+        "Products": [
+            {
+                "Product": "cryptography",
+                "Vendor": "pyca",
+                "Matched Packages": [
+                    "cryptography"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-23933",
+        "Products": [
+            {
+                "Product": "anomaly-detection",
+                "Vendor": "opensearch-project",
+                "Matched Packages": [
+                    "anomaly-detection"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-23935",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    }
+]

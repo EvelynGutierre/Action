@@ -38,10 +38,9 @@ def match_cve_to_pypi(cve_info_list, pypi_file_path):
 
             # Check if product_name and vendor match any entries in pypi_data
             matched_packages = []
-            for package in pypi_data:
-                if isinstance(package, dict):  # Check if package is a dictionary
-                    if package.get('name') == product_name and package.get('author') == vendor:
-                        matched_packages.append(package)
+            for some_link, package_names in pypi_data.items():
+                if product_name in package_names:
+                    matched_packages.append(product_name)
 
             # Add matched packages to cve_info
             product_info['Matched Packages'] = matched_packages

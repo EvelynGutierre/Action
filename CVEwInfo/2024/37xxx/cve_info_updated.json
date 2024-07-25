@@ -1,1 +1,330 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-37051",
+        "Products": [
+            {
+                "Product": "IntelliJ IDEA",
+                "Vendor": "JetBrains",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Aqua",
+                "Vendor": "JetBrains",
+                "Matched Packages": []
+            },
+            {
+                "Product": "CLion",
+                "Vendor": "JetBrains",
+                "Matched Packages": []
+            },
+            {
+                "Product": "DataGrip",
+                "Vendor": "JetBrains",
+                "Matched Packages": []
+            },
+            {
+                "Product": "DataSpell",
+                "Vendor": "JetBrains",
+                "Matched Packages": []
+            },
+            {
+                "Product": "GoLand",
+                "Vendor": "JetBrains",
+                "Matched Packages": []
+            },
+            {
+                "Product": "MPS",
+                "Vendor": "JetBrains",
+                "Matched Packages": []
+            },
+            {
+                "Product": "PhpStorm",
+                "Vendor": "JetBrains",
+                "Matched Packages": []
+            },
+            {
+                "Product": "PyCharm",
+                "Vendor": "JetBrains",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Rider",
+                "Vendor": "JetBrains",
+                "Matched Packages": [
+                    "Rider"
+                ]
+            },
+            {
+                "Product": "RubyMine",
+                "Vendor": "JetBrains",
+                "Matched Packages": []
+            },
+            {
+                "Product": "RustRover",
+                "Vendor": "JetBrains",
+                "Matched Packages": []
+            },
+            {
+                "Product": "WebStorm",
+                "Vendor": "JetBrains",
+                "Matched Packages": []
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-37062",
+        "Products": [
+            {
+                "Product": "ydata-profiling",
+                "Vendor": "YdataAI",
+                "Matched Packages": [
+                    "ydata-profiling"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-37063",
+        "Products": [
+            {
+                "Product": "ydata-profiling",
+                "Vendor": "YdataAI",
+                "Matched Packages": [
+                    "ydata-profiling"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-37064",
+        "Products": [
+            {
+                "Product": "ydata-profiling",
+                "Vendor": "YdataAI",
+                "Matched Packages": [
+                    "ydata-profiling"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-37147",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-37148",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-37149",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-37150",
+        "Products": [
+            {
+                "Product": "deno",
+                "Vendor": "denoland",
+                "Matched Packages": [
+                    "deno"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-37153",
+        "Products": [
+            {
+                "Product": "evmos",
+                "Vendor": "evmos",
+                "Matched Packages": [
+                    "evmos",
+                    "evmos"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-37154",
+        "Products": [
+            {
+                "Product": "evmos",
+                "Vendor": "evmos",
+                "Matched Packages": [
+                    "evmos",
+                    "evmos"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-37157",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-37158",
+        "Products": [
+            {
+                "Product": "evmos",
+                "Vendor": "evmos",
+                "Matched Packages": [
+                    "evmos",
+                    "evmos"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-37159",
+        "Products": [
+            {
+                "Product": "evmos",
+                "Vendor": "evmos",
+                "Matched Packages": [
+                    "evmos",
+                    "evmos"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-37166",
+        "Products": [
+            {
+                "Product": "ghtml",
+                "Vendor": "gurgunday",
+                "Matched Packages": [
+                    "ghtml"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-37298",
+        "Products": [
+            {
+                "Product": "schema",
+                "Vendor": "gorilla",
+                "Matched Packages": [
+                    "schema"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-37300",
+        "Products": [
+            {
+                "Product": "oauthenticator",
+                "Vendor": "jupyterhub",
+                "Matched Packages": [
+                    "oauthenticator"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-37301",
+        "Products": [
+            {
+                "Product": "document-merge-service",
+                "Vendor": "adfinis",
+                "Matched Packages": [
+                    "document-merge-service"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-37309",
+        "Products": [
+            {
+                "Product": "crate",
+                "Vendor": "crate",
+                "Matched Packages": [
+                    "crate"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-37890",
+        "Products": [
+            {
+                "Product": "ws",
+                "Vendor": "websockets",
+                "Matched Packages": [
+                    "ws"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-37891",
+        "Products": [
+            {
+                "Product": "urllib3",
+                "Vendor": "urllib3",
+                "Matched Packages": [
+                    "urllib3"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-37894",
+        "Products": [
+            {
+                "Product": "squid",
+                "Vendor": "squid-cache",
+                "Matched Packages": [
+                    "squid"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-37904",
+        "Products": [
+            {
+                "Product": "minder",
+                "Vendor": "stacklok",
+                "Matched Packages": [
+                    "minder"
+                ]
+            }
+        ]
+    }
+]

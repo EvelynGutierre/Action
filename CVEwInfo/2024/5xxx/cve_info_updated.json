@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-5965",
+        "Products": [
+            {
+                "Product": "Mosaic",
+                "Vendor": "wildweblab",
+                "Matched Packages": [
+                    "Mosaic"
+                ]
+            }
+        ]
+    }
+]

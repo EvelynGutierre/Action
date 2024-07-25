@@ -1,1 +1,212 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-2110",
+        "Products": [
+            {
+                "Product": "Obsidian",
+                "Vendor": "Obsidian",
+                "Matched Packages": [
+                    "Obsidian"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-2234",
+        "Products": [
+            {
+                "Product": "Zephyr",
+                "Vendor": "zephyrproject-rtos",
+                "Matched Packages": [
+                    "Zephyr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-2319",
+        "Products": [
+            {
+                "Product": "pcs",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "pcs"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-2430",
+        "Products": [
+            {
+                "Product": "kernel",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "kernel"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-2491",
+        "Products": [
+            {
+                "Product": "emacs",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "emacs"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-2680",
+        "Products": [
+            {
+                "Product": "qemu",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "qemu"
+                ]
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 6",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 8",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 8 Advanced Virtualization",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 9",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat OpenStack Platform 13 (Queens)",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Fedora",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Extra Packages for Enterprise Linux",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-2731",
+        "Products": [
+            {
+                "Product": "libtiff",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "libtiff"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-2789",
+        "Products": [
+            {
+                "Product": "cflow",
+                "Vendor": "GNU",
+                "Matched Packages": [
+                    "cflow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-2816",
+        "Products": [
+            {
+                "Product": "Consul",
+                "Vendor": "HashiCorp",
+                "Matched Packages": [
+                    "Consul"
+                ]
+            },
+            {
+                "Product": "Consul Enterprise",
+                "Vendor": "HashiCorp",
+                "Matched Packages": []
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-2860",
+        "Products": [
+            {
+                "Product": "kernel",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "kernel"
+                ]
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 6",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 8",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 8",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 9",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 9",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Fedora",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            }
+        ]
+    }
+]

@@ -1,1 +1,86 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-51446",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-51448",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-51449",
+        "Products": [
+            {
+                "Product": "gradio",
+                "Vendor": "gradio-app",
+                "Matched Packages": [
+                    "gradio"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-51649",
+        "Products": [
+            {
+                "Product": "nautobot",
+                "Vendor": "nautobot",
+                "Matched Packages": [
+                    "nautobot"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-51661",
+        "Products": [
+            {
+                "Product": "wasmer",
+                "Vendor": "wasmerio",
+                "Matched Packages": [
+                    "wasmer"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-51663",
+        "Products": [
+            {
+                "Product": "hail",
+                "Vendor": "hail-is",
+                "Matched Packages": [
+                    "hail"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-51699",
+        "Products": [
+            {
+                "Product": "fluid",
+                "Vendor": "fluid-cloudnative",
+                "Matched Packages": [
+                    "fluid"
+                ]
+            }
+        ]
+    }
+]

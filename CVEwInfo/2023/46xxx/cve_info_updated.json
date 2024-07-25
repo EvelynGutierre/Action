@@ -1,1 +1,266 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-46118",
+        "Products": [
+            {
+                "Product": "rabbitmq-server",
+                "Vendor": "rabbitmq",
+                "Matched Packages": [
+                    "rabbitmq-server"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-46121",
+        "Products": [
+            {
+                "Product": "yt-dlp",
+                "Vendor": "yt-dlp",
+                "Matched Packages": [
+                    "yt-dlp"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-46122",
+        "Products": [
+            {
+                "Product": "sbt",
+                "Vendor": "sbt",
+                "Matched Packages": [
+                    "sbt"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-46124",
+        "Products": [
+            {
+                "Product": "fides",
+                "Vendor": "ethyca",
+                "Matched Packages": [
+                    "fides"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-46125",
+        "Products": [
+            {
+                "Product": "fides",
+                "Vendor": "ethyca",
+                "Matched Packages": [
+                    "fides"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-46126",
+        "Products": [
+            {
+                "Product": "fides",
+                "Vendor": "ethyca",
+                "Matched Packages": [
+                    "fides"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-46127",
+        "Products": [
+            {
+                "Product": "frappe",
+                "Vendor": "frappe",
+                "Matched Packages": [
+                    "frappe"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-46128",
+        "Products": [
+            {
+                "Product": "nautobot",
+                "Vendor": "nautobot",
+                "Matched Packages": [
+                    "nautobot"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-46129",
+        "Products": [
+            {
+                "Product": "nkeys",
+                "Vendor": "nats-io",
+                "Matched Packages": [
+                    "nkeys"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-46130",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-46132",
+        "Products": [
+            {
+                "Product": "fabric",
+                "Vendor": "hyperledger",
+                "Matched Packages": [
+                    "fabric"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-46134",
+        "Products": [
+            {
+                "Product": "dtale",
+                "Vendor": "man-group",
+                "Matched Packages": [
+                    "dtale"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-46247",
+        "Products": [
+            {
+                "Product": "vyper",
+                "Vendor": "vyperlang",
+                "Matched Packages": [
+                    "vyper"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-46248",
+        "Products": [
+            {
+                "Product": "cody",
+                "Vendor": "sourcegraph",
+                "Matched Packages": [
+                    "cody"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-46250",
+        "Products": [
+            {
+                "Product": "pypdf",
+                "Vendor": "py-pdf",
+                "Matched Packages": [
+                    "pypdf"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-46255",
+        "Products": [
+            {
+                "Product": "spicedb",
+                "Vendor": "authzed",
+                "Matched Packages": [
+                    "spicedb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-46724",
+        "Products": [
+            {
+                "Product": "squid",
+                "Vendor": "squid-cache",
+                "Matched Packages": [
+                    "squid"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-46726",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-46727",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-46728",
+        "Products": [
+            {
+                "Product": "squid",
+                "Vendor": "squid-cache",
+                "Matched Packages": [
+                    "squid"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-46745",
+        "Products": [
+            {
+                "Product": "librenms",
+                "Vendor": "librenms",
+                "Matched Packages": [
+                    "librenms"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-46746",
+        "Products": [
+            {
+                "Product": "posthog",
+                "Vendor": "PostHog",
+                "Matched Packages": [
+                    "posthog"
+                ]
+            }
+        ]
+    }
+]

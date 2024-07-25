@@ -1,1 +1,233 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-22155",
+        "Products": [
+            {
+                "Product": "WooCommerce",
+                "Vendor": "Automattic",
+                "Matched Packages": [
+                    "WooCommerce",
+                    "WooCommerce"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-22181",
+        "Products": [
+            {
+                "Product": "libigl",
+                "Vendor": "libigl",
+                "Matched Packages": [
+                    "libigl"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-22190",
+        "Products": [
+            {
+                "Product": "GitPython",
+                "Vendor": "gitpython-developers",
+                "Matched Packages": [
+                    "GitPython"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-22192",
+        "Products": [
+            {
+                "Product": "ursa",
+                "Vendor": "hyperledger-archives",
+                "Matched Packages": [
+                    "ursa"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-22193",
+        "Products": [
+            {
+                "Product": "vantage6",
+                "Vendor": "vantage6",
+                "Matched Packages": [
+                    "vantage6"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-22199",
+        "Products": [
+            {
+                "Product": "template",
+                "Vendor": "gofiber",
+                "Matched Packages": [
+                    "template"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-22203",
+        "Products": [
+            {
+                "Product": "whoogle-search",
+                "Vendor": "benbusby",
+                "Matched Packages": [
+                    "whoogle-search"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-22204",
+        "Products": [
+            {
+                "Product": "whoogle-search",
+                "Vendor": "benbusby",
+                "Matched Packages": [
+                    "whoogle-search"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-22205",
+        "Products": [
+            {
+                "Product": "whoogle-search",
+                "Vendor": "benbusby",
+                "Matched Packages": [
+                    "whoogle-search"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-22206",
+        "Products": [
+            {
+                "Product": "javascript",
+                "Vendor": "clerk",
+                "Matched Packages": [
+                    "javascript",
+                    "javascript",
+                    "javascript"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-22346",
+        "Products": [
+            {
+                "Product": "i",
+                "Vendor": "IBM",
+                "Matched Packages": [
+                    "i"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-22409",
+        "Products": [
+            {
+                "Product": "datahub",
+                "Vendor": "datahub-project",
+                "Matched Packages": [
+                    "datahub"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-22415",
+        "Products": [
+            {
+                "Product": "jupyterlab-lsp",
+                "Vendor": "jupyter-lsp",
+                "Matched Packages": [
+                    "jupyterlab-lsp"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-22416",
+        "Products": [
+            {
+                "Product": "pyload",
+                "Vendor": "pyload",
+                "Matched Packages": [
+                    "pyload"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-22417",
+        "Products": [
+            {
+                "Product": "whoogle-search",
+                "Vendor": "benbusby",
+                "Matched Packages": [
+                    "whoogle-search"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-22419",
+        "Products": [
+            {
+                "Product": "vyper",
+                "Vendor": "vyperlang",
+                "Matched Packages": [
+                    "vyper"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-22420",
+        "Products": [
+            {
+                "Product": "jupyterlab",
+                "Vendor": "jupyterlab",
+                "Matched Packages": [
+                    "jupyterlab"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-22421",
+        "Products": [
+            {
+                "Product": "jupyterlab",
+                "Vendor": "jupyterlab",
+                "Matched Packages": [
+                    "jupyterlab"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-22423",
+        "Products": [
+            {
+                "Product": "yt-dlp",
+                "Vendor": "yt-dlp",
+                "Matched Packages": [
+                    "yt-dlp"
+                ]
+            }
+        ]
+    }
+]

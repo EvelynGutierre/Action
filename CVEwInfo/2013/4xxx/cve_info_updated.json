@@ -1,1 +1,79 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2013-4235",
+        "Products": [
+            {
+                "Product": "shadow",
+                "Vendor": "shadow",
+                "Matched Packages": [
+                    "shadow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2013-4409",
+        "Products": [
+            {
+                "Product": "Djblets",
+                "Vendor": "Python Software Foundation; Beanbag",
+                "Matched Packages": [
+                    "Djblets"
+                ]
+            },
+            {
+                "Product": "Review Board",
+                "Vendor": "Python Software Foundation; Beanbag",
+                "Matched Packages": []
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2013-4410",
+        "Products": [
+            {
+                "Product": "ReviewBoard",
+                "Vendor": "ReviewBoard",
+                "Matched Packages": [
+                    "ReviewBoard"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2013-4412",
+        "Products": [
+            {
+                "Product": "slim",
+                "Vendor": "slim",
+                "Matched Packages": [
+                    "slim"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2013-4532",
+        "Products": [
+            {
+                "Product": "qemu",
+                "Vendor": "qemu",
+                "Matched Packages": [
+                    "qemu"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2013-4536",
+        "Products": [
+            {
+                "Product": "qemu",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "qemu"
+                ]
+            }
+        ]
+    }
+]

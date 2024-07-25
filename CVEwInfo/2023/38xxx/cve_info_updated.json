@@ -1,1 +1,211 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-38000",
+        "Products": [
+            {
+                "Product": "WordPress",
+                "Vendor": "WordPress.org",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Gutenberg",
+                "Vendor": "Gutenberg Team",
+                "Matched Packages": [
+                    "Gutenberg"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-38488",
+        "Products": [
+            {
+                "Product": "kirby",
+                "Vendor": "getkirby",
+                "Matched Packages": [
+                    "kirby"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-38489",
+        "Products": [
+            {
+                "Product": "kirby",
+                "Vendor": "getkirby",
+                "Matched Packages": [
+                    "kirby"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-38490",
+        "Products": [
+            {
+                "Product": "kirby",
+                "Vendor": "getkirby",
+                "Matched Packages": [
+                    "kirby"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-38491",
+        "Products": [
+            {
+                "Product": "kirby",
+                "Vendor": "getkirby",
+                "Matched Packages": [
+                    "kirby"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-38492",
+        "Products": [
+            {
+                "Product": "kirby",
+                "Vendor": "getkirby",
+                "Matched Packages": [
+                    "kirby"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-38495",
+        "Products": [
+            {
+                "Product": "crossplane",
+                "Vendor": "crossplane",
+                "Matched Packages": [
+                    "crossplane"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-38497",
+        "Products": [
+            {
+                "Product": "cargo",
+                "Vendor": "rust-lang",
+                "Matched Packages": [
+                    "cargo"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-38498",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-38500",
+        "Products": [
+            {
+                "Product": "html-sanitizer",
+                "Vendor": "TYPO3",
+                "Matched Packages": [
+                    "html-sanitizer"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-38501",
+        "Products": [
+            {
+                "Product": "copyparty",
+                "Vendor": "9001",
+                "Matched Packages": [
+                    "copyparty"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-38504",
+        "Products": [
+            {
+                "Product": "sails",
+                "Vendor": "balderdashy",
+                "Matched Packages": [
+                    "sails"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-38507",
+        "Products": [
+            {
+                "Product": "strapi",
+                "Vendor": "strapi",
+                "Matched Packages": [
+                    "strapi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-38684",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-38685",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-38706",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-38721",
+        "Products": [
+            {
+                "Product": "i",
+                "Vendor": "IBM",
+                "Matched Packages": [
+                    "i"
+                ]
+            }
+        ]
+    }
+]

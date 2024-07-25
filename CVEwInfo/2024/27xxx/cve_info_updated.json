@@ -1,1 +1,559 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-27081",
+        "Products": [
+            {
+                "Product": "esphome",
+                "Vendor": "esphome",
+                "Matched Packages": [
+                    "esphome",
+                    "esphome",
+                    "esphome"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27082",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27083",
+        "Products": [
+            {
+                "Product": "Flask-AppBuilder",
+                "Vendor": "dpgaspar",
+                "Matched Packages": [
+                    "Flask-AppBuilder"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27085",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27087",
+        "Products": [
+            {
+                "Product": "kirby",
+                "Vendor": "getkirby",
+                "Matched Packages": [
+                    "kirby"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27093",
+        "Products": [
+            {
+                "Product": "minder",
+                "Vendor": "stacklok",
+                "Matched Packages": [
+                    "minder"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27096",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27097",
+        "Products": [
+            {
+                "Product": "ckan",
+                "Vendor": "ckan",
+                "Matched Packages": [
+                    "ckan"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27098",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27100",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27101",
+        "Products": [
+            {
+                "Product": "spicedb",
+                "Vendor": "authzed",
+                "Matched Packages": [
+                    "spicedb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27102",
+        "Products": [
+            {
+                "Product": "wings",
+                "Vendor": "pterodactyl",
+                "Matched Packages": [
+                    "wings"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27104",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27105",
+        "Products": [
+            {
+                "Product": "frappe",
+                "Vendor": "frappe",
+                "Matched Packages": [
+                    "frappe"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27264",
+        "Products": [
+            {
+                "Product": "i",
+                "Vendor": "IBM",
+                "Matched Packages": [
+                    "i"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27275",
+        "Products": [
+            {
+                "Product": "i",
+                "Vendor": "IBM",
+                "Matched Packages": [
+                    "i"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27285",
+        "Products": [
+            {
+                "Product": "yard",
+                "Vendor": "lsegal",
+                "Matched Packages": [
+                    "yard"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27286",
+        "Products": [
+            {
+                "Product": "zulip",
+                "Vendor": "zulip",
+                "Matched Packages": [
+                    "zulip"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27287",
+        "Products": [
+            {
+                "Product": "esphome",
+                "Vendor": "esphome",
+                "Matched Packages": [
+                    "esphome",
+                    "esphome",
+                    "esphome"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27289",
+        "Products": [
+            {
+                "Product": "pgx",
+                "Vendor": "jackc",
+                "Matched Packages": [
+                    "pgx"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27290",
+        "Products": [
+            {
+                "Product": "docassemble",
+                "Vendor": "jhpyle",
+                "Matched Packages": [
+                    "docassemble"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27291",
+        "Products": [
+            {
+                "Product": "docassemble",
+                "Vendor": "jhpyle",
+                "Matched Packages": [
+                    "docassemble"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27292",
+        "Products": [
+            {
+                "Product": "docassemble",
+                "Vendor": "jhpyle",
+                "Matched Packages": [
+                    "docassemble"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27297",
+        "Products": [
+            {
+                "Product": "nix",
+                "Vendor": "NixOS",
+                "Matched Packages": [
+                    "nix"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27304",
+        "Products": [
+            {
+                "Product": "pgx",
+                "Vendor": "jackc",
+                "Matched Packages": [
+                    "pgx"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27305",
+        "Products": [
+            {
+                "Product": "aiosmtpd",
+                "Vendor": "aio-libs",
+                "Matched Packages": [
+                    "aiosmtpd"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27306",
+        "Products": [
+            {
+                "Product": "aiohttp",
+                "Vendor": "aio-libs",
+                "Matched Packages": [
+                    "aiohttp"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27307",
+        "Products": [
+            {
+                "Product": "jsonata",
+                "Vendor": "jsonata-js",
+                "Matched Packages": [
+                    "jsonata"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27308",
+        "Products": [
+            {
+                "Product": "mio",
+                "Vendor": "tokio-rs",
+                "Matched Packages": [
+                    "mio"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27318",
+        "Products": [
+            {
+                "Product": "onnx",
+                "Vendor": "onnx",
+                "Matched Packages": [
+                    "onnx"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27319",
+        "Products": [
+            {
+                "Product": "onnx",
+                "Vendor": "onnx",
+                "Matched Packages": [
+                    "onnx"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27914",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27915",
+        "Products": [
+            {
+                "Product": "sulu",
+                "Vendor": "sulu",
+                "Matched Packages": [
+                    "sulu"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27916",
+        "Products": [
+            {
+                "Product": "minder",
+                "Vendor": "stacklok",
+                "Matched Packages": [
+                    "minder"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27918",
+        "Products": [
+            {
+                "Product": "coder",
+                "Vendor": "coder",
+                "Matched Packages": [
+                    "coder"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27919",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27920",
+        "Products": [
+            {
+                "Product": "nuclei",
+                "Vendor": "projectdiscovery",
+                "Matched Packages": [
+                    "nuclei"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27930",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27931",
+        "Products": [
+            {
+                "Product": "deno",
+                "Vendor": "denoland",
+                "Matched Packages": [
+                    "deno"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27932",
+        "Products": [
+            {
+                "Product": "deno",
+                "Vendor": "denoland",
+                "Matched Packages": [
+                    "deno"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27933",
+        "Products": [
+            {
+                "Product": "deno",
+                "Vendor": "denoland",
+                "Matched Packages": [
+                    "deno"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27934",
+        "Products": [
+            {
+                "Product": "deno",
+                "Vendor": "denoland",
+                "Matched Packages": [
+                    "deno"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27935",
+        "Products": [
+            {
+                "Product": "deno",
+                "Vendor": "denoland",
+                "Matched Packages": [
+                    "deno"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27936",
+        "Products": [
+            {
+                "Product": "deno",
+                "Vendor": "denoland",
+                "Matched Packages": [
+                    "deno"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27937",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-27938",
+        "Products": [
+            {
+                "Product": "postal",
+                "Vendor": "postalserver",
+                "Matched Packages": [
+                    "postal",
+                    "postal"
+                ]
+            }
+        ]
+    }
+]

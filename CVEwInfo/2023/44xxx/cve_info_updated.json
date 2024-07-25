@@ -1,1 +1,88 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-44385",
+        "Products": [
+            {
+                "Product": "core",
+                "Vendor": "home-assistant",
+                "Matched Packages": [
+                    "core"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-44386",
+        "Products": [
+            {
+                "Product": "vapor",
+                "Vendor": "vapor",
+                "Matched Packages": [
+                    "vapor"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-44388",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-44389",
+        "Products": [
+            {
+                "Product": "Zope",
+                "Vendor": "zopefoundation",
+                "Matched Packages": [
+                    "Zope"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-44391",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-44392",
+        "Products": [
+            {
+                "Product": "garden",
+                "Vendor": "garden-io",
+                "Matched Packages": [
+                    "garden"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-44398",
+        "Products": [
+            {
+                "Product": "exiv2",
+                "Vendor": "Exiv2",
+                "Matched Packages": [
+                    "exiv2",
+                    "exiv2",
+                    "exiv2"
+                ]
+            }
+        ]
+    }
+]

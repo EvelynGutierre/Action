@@ -1,1 +1,182 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-48217",
+        "Products": [
+            {
+                "Product": "cms",
+                "Vendor": "statamic",
+                "Matched Packages": [
+                    "cms"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-48224",
+        "Products": [
+            {
+                "Product": "fides",
+                "Vendor": "ethyca",
+                "Matched Packages": [
+                    "fides"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-48294",
+        "Products": [
+            {
+                "Product": "librenms",
+                "Vendor": "librenms",
+                "Matched Packages": [
+                    "librenms"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-48295",
+        "Products": [
+            {
+                "Product": "librenms",
+                "Vendor": "librenms",
+                "Matched Packages": [
+                    "librenms"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-48297",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-48299",
+        "Products": [
+            {
+                "Product": "serve",
+                "Vendor": "pytorch",
+                "Matched Packages": [
+                    "serve"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-48311",
+        "Products": [
+            {
+                "Product": "dockerspawner",
+                "Vendor": "jupyterhub",
+                "Matched Packages": [
+                    "dockerspawner"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-48314",
+        "Products": [
+            {
+                "Product": "online",
+                "Vendor": "CollaboraOnline",
+                "Matched Packages": [
+                    "online"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-48699",
+        "Products": [
+            {
+                "Product": "fastbots",
+                "Vendor": "ubertidavide",
+                "Matched Packages": [
+                    "fastbots"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-48701",
+        "Products": [
+            {
+                "Product": "cms",
+                "Vendor": "statamic",
+                "Matched Packages": [
+                    "cms"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-48702",
+        "Products": [
+            {
+                "Product": "jellyfin",
+                "Vendor": "jellyfin",
+                "Matched Packages": [
+                    "jellyfin"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-48705",
+        "Products": [
+            {
+                "Product": "nautobot",
+                "Vendor": "nautobot",
+                "Matched Packages": [
+                    "nautobot"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-48707",
+        "Products": [
+            {
+                "Product": "shield",
+                "Vendor": "codeigniter4",
+                "Matched Packages": [
+                    "shield"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-48708",
+        "Products": [
+            {
+                "Product": "shield",
+                "Vendor": "codeigniter4",
+                "Matched Packages": [
+                    "shield"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-48713",
+        "Products": [
+            {
+                "Product": "serving",
+                "Vendor": "knative",
+                "Matched Packages": [
+                    "serving"
+                ]
+            }
+        ]
+    }
+]

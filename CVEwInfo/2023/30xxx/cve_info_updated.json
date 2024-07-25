@@ -1,1 +1,302 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-30534",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30538",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30551",
+        "Products": [
+            {
+                "Product": "rekor",
+                "Vendor": "sigstore",
+                "Matched Packages": [
+                    "rekor"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30606",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30608",
+        "Products": [
+            {
+                "Product": "sqlparse",
+                "Vendor": "andialbrecht",
+                "Matched Packages": [
+                    "sqlparse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30614",
+        "Products": [
+            {
+                "Product": "pay",
+                "Vendor": "pay-rails",
+                "Matched Packages": [
+                    "pay"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30622",
+        "Products": [
+            {
+                "Product": "clusternet",
+                "Vendor": "clusternet",
+                "Matched Packages": [
+                    "clusternet"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30623",
+        "Products": [
+            {
+                "Product": "wip",
+                "Vendor": "embano1",
+                "Matched Packages": [
+                    "wip"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30624",
+        "Products": [
+            {
+                "Product": "wasmtime",
+                "Vendor": "bytecodealliance",
+                "Matched Packages": [
+                    "wasmtime"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30626",
+        "Products": [
+            {
+                "Product": "jellyfin",
+                "Vendor": "jellyfin",
+                "Matched Packages": [
+                    "jellyfin"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30629",
+        "Products": [
+            {
+                "Product": "vyper",
+                "Vendor": "vyperlang",
+                "Matched Packages": [
+                    "vyper"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30678",
+        "Products": [
+            {
+                "Product": "Calendar",
+                "Vendor": "Samsung Mobile",
+                "Matched Packages": [
+                    "Calendar"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30724",
+        "Products": [
+            {
+                "Product": "Gallery",
+                "Vendor": "Samsung Mobile",
+                "Matched Packages": [
+                    "Gallery"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30725",
+        "Products": [
+            {
+                "Product": "Gallery",
+                "Vendor": "Samsung Mobile",
+                "Matched Packages": [
+                    "Gallery"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30774",
+        "Products": [
+            {
+                "Product": "libtiff",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "libtiff"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30775",
+        "Products": [
+            {
+                "Product": "libtiff",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "libtiff"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30837",
+        "Products": [
+            {
+                "Product": "vyper",
+                "Vendor": "vyperlang",
+                "Matched Packages": [
+                    "vyper"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30840",
+        "Products": [
+            {
+                "Product": "fluid",
+                "Vendor": "fluid-cloudnative",
+                "Matched Packages": [
+                    "fluid"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30843",
+        "Products": [
+            {
+                "Product": "payload",
+                "Vendor": "payloadcms",
+                "Matched Packages": [
+                    "payload"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30844",
+        "Products": [
+            {
+                "Product": "mutagen",
+                "Vendor": "mutagen-io",
+                "Matched Packages": [
+                    "mutagen"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30847",
+        "Products": [
+            {
+                "Product": "h2o",
+                "Vendor": "h2o",
+                "Matched Packages": [
+                    "h2o"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30858",
+        "Products": [
+            {
+                "Product": "emoji",
+                "Vendor": "denosaurs",
+                "Matched Packages": [
+                    "emoji"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30988",
+        "Products": [
+            {
+                "Product": "i",
+                "Vendor": "IBM",
+                "Matched Packages": [
+                    "i"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30989",
+        "Products": [
+            {
+                "Product": "i",
+                "Vendor": "IBM",
+                "Matched Packages": [
+                    "i"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-30990",
+        "Products": [
+            {
+                "Product": "i",
+                "Vendor": "IBM",
+                "Matched Packages": [
+                    "i"
+                ]
+            }
+        ]
+    }
+]

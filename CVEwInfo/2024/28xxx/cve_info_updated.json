@@ -1,1 +1,170 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-28101",
+        "Products": [
+            {
+                "Product": "router",
+                "Vendor": "apollographql",
+                "Matched Packages": [
+                    "router"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-28102",
+        "Products": [
+            {
+                "Product": "jwcrypto",
+                "Vendor": "latchset",
+                "Matched Packages": [
+                    "jwcrypto"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-28176",
+        "Products": [
+            {
+                "Product": "jose",
+                "Vendor": "panva",
+                "Matched Packages": [
+                    "jose"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-28179",
+        "Products": [
+            {
+                "Product": "jupyter-server-proxy",
+                "Vendor": "jupyterhub",
+                "Matched Packages": [
+                    "jupyter-server-proxy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-28188",
+        "Products": [
+            {
+                "Product": "jupyter-scheduler",
+                "Vendor": "jupyter-server",
+                "Matched Packages": [
+                    "jupyter-scheduler"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-28199",
+        "Products": [
+            {
+                "Product": "phlex",
+                "Vendor": "phlex-ruby",
+                "Matched Packages": [
+                    "phlex"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-28233",
+        "Products": [
+            {
+                "Product": "jupyterhub",
+                "Vendor": "jupyterhub",
+                "Matched Packages": [
+                    "jupyterhub"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-28236",
+        "Products": [
+            {
+                "Product": "worker",
+                "Vendor": "go-vela",
+                "Matched Packages": [
+                    "worker"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-28237",
+        "Products": [
+            {
+                "Product": "OctoPrint",
+                "Vendor": "OctoPrint",
+                "Matched Packages": [
+                    "OctoPrint"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-28242",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-28852",
+        "Products": [
+            {
+                "Product": "ampache",
+                "Vendor": "ampache",
+                "Matched Packages": [
+                    "ampache"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-28853",
+        "Products": [
+            {
+                "Product": "ampache",
+                "Vendor": "ampache",
+                "Matched Packages": [
+                    "ampache"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-28865",
+        "Products": [
+            {
+                "Product": "django-wiki",
+                "Vendor": "django-wiki",
+                "Matched Packages": [
+                    "django-wiki"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-28866",
+        "Products": [
+            {
+                "Product": "gocd",
+                "Vendor": "gocd",
+                "Matched Packages": [
+                    "gocd"
+                ]
+            }
+        ]
+    }
+]

@@ -1,1 +1,39 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-24816",
+        "Products": [
+            {
+                "Product": "ipython",
+                "Vendor": "ipython",
+                "Matched Packages": [
+                    "ipython"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-24827",
+        "Products": [
+            {
+                "Product": "syft",
+                "Vendor": "anchore",
+                "Matched Packages": [
+                    "syft",
+                    "syft"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-24836",
+        "Products": [
+            {
+                "Product": "CTMS",
+                "Vendor": "SUNNET",
+                "Matched Packages": [
+                    "CTMS"
+                ]
+            }
+        ]
+    }
+]

@@ -1,1 +1,256 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-5055",
+        "Products": [
+            {
+                "Product": "Zephyr",
+                "Vendor": "zephyrproject-rtos",
+                "Matched Packages": [
+                    "Zephyr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-5139",
+        "Products": [
+            {
+                "Product": "Zephyr",
+                "Vendor": "zephyrproject-rtos",
+                "Matched Packages": [
+                    "Zephyr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-5158",
+        "Products": [
+            {
+                "Product": "kernel",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "kernel"
+                ]
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 6",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 8",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 8",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 9",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 9",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Fedora",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-5182",
+        "Products": [
+            {
+                "Product": "subiquity",
+                "Vendor": "Canonical Ltd.",
+                "Matched Packages": [
+                    "subiquity"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-5184",
+        "Products": [
+            {
+                "Product": "Zephyr",
+                "Vendor": "zephyrproject-rtos",
+                "Matched Packages": [
+                    "Zephyr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-5563",
+        "Products": [
+            {
+                "Product": "Zephyr",
+                "Vendor": "zephyrproject-rtos",
+                "Matched Packages": [
+                    "Zephyr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-5568",
+        "Products": [
+            {
+                "Product": "samba",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "samba"
+                ]
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 6",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 8",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 9",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Storage 3",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Fedora",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-5752",
+        "Products": [
+            {
+                "Product": "pip",
+                "Vendor": "Pip maintainers",
+                "Matched Packages": [
+                    "pip"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-5753",
+        "Products": [
+            {
+                "Product": "Zephyr",
+                "Vendor": "zephyrproject-rtos",
+                "Matched Packages": [
+                    "Zephyr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-5779",
+        "Products": [
+            {
+                "Product": "Zephyr",
+                "Vendor": "zephyrproject-rtos",
+                "Matched Packages": [
+                    "Zephyr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-5841",
+        "Products": [
+            {
+                "Product": "OpenEXR",
+                "Vendor": "Academy Software Foundation",
+                "Matched Packages": [
+                    "OpenEXR"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-5972",
+        "Products": [
+            {
+                "Product": "kernel",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "kernel"
+                ]
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 6",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 8",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 8",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 9",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 9",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Fedora",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            }
+        ]
+    }
+]

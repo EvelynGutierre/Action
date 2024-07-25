@@ -1,1 +1,122 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-36105",
+        "Products": [
+            {
+                "Product": "dbt-core",
+                "Vendor": "dbt-labs",
+                "Matched Packages": [
+                    "dbt-core"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-36107",
+        "Products": [
+            {
+                "Product": "minio",
+                "Vendor": "minio",
+                "Matched Packages": [
+                    "minio"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-36112",
+        "Products": [
+            {
+                "Product": "nautobot",
+                "Vendor": "nautobot",
+                "Matched Packages": [
+                    "nautobot"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-36113",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-36119",
+        "Products": [
+            {
+                "Product": "cms",
+                "Vendor": "statamic",
+                "Matched Packages": [
+                    "cms"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-36122",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-36124",
+        "Products": [
+            {
+                "Product": "snappy",
+                "Vendor": "dain",
+                "Matched Packages": [
+                    "snappy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-36399",
+        "Products": [
+            {
+                "Product": "kanboard",
+                "Vendor": "kanboard",
+                "Matched Packages": [
+                    "kanboard"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-36404",
+        "Products": [
+            {
+                "Product": "geotools",
+                "Vendor": "geotools",
+                "Matched Packages": [
+                    "geotools"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-36405",
+        "Products": [
+            {
+                "Product": "liboqs",
+                "Vendor": "open-quantum-safe",
+                "Matched Packages": [
+                    "liboqs"
+                ]
+            }
+        ]
+    }
+]

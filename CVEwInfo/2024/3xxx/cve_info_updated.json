@@ -1,1 +1,74 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-3077",
+        "Products": [
+            {
+                "Product": "Zephyr",
+                "Vendor": "zephyrproject-rtos",
+                "Matched Packages": [
+                    "Zephyr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-3182",
+        "Products": [
+            {
+                "Product": "Hawk",
+                "Vendor": "TIBCO",
+                "Matched Packages": [
+                    "Hawk"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-3250",
+        "Products": [
+            {
+                "Product": "Pebble",
+                "Vendor": "Canonical Ltd.",
+                "Matched Packages": [
+                    "Pebble"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-3332",
+        "Products": [
+            {
+                "Product": "Zephyr",
+                "Vendor": "zephyrproject-rtos",
+                "Matched Packages": [
+                    "Zephyr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-3660",
+        "Products": [
+            {
+                "Product": "keras",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "keras"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-3764",
+        "Products": [
+            {
+                "Product": "SDK",
+                "Vendor": "Tuya",
+                "Matched Packages": [
+                    "SDK"
+                ]
+            }
+        ]
+    }
+]

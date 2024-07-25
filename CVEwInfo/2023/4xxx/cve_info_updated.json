@@ -1,1 +1,238 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-4154",
+        "Products": [
+            {
+                "Product": "samba",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "samba"
+                ]
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 6",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 6",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 8",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 9",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Storage 3",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Fedora",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-4155",
+        "Products": [
+            {
+                "Product": "kernel",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "kernel"
+                ]
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 6",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 8",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 8",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 9",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 9",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Fedora",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-4257",
+        "Products": [
+            {
+                "Product": "Zephyr",
+                "Vendor": "zephyrproject-rtos",
+                "Matched Packages": [
+                    "Zephyr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-4258",
+        "Products": [
+            {
+                "Product": "Zephyr",
+                "Vendor": "zephyrproject-rtos",
+                "Matched Packages": [
+                    "Zephyr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-4259",
+        "Products": [
+            {
+                "Product": "Zephyr",
+                "Vendor": "zephyrproject-rtos",
+                "Matched Packages": [
+                    "Zephyr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-4260",
+        "Products": [
+            {
+                "Product": "Zephyr",
+                "Vendor": "zephyrproject-rtos",
+                "Matched Packages": [
+                    "Zephyr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-4262",
+        "Products": [
+            {
+                "Product": "Zephyr",
+                "Vendor": "zephyrproject-rtos",
+                "Matched Packages": [
+                    "Zephyr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-4263",
+        "Products": [
+            {
+                "Product": "Zephyr",
+                "Vendor": "zephyrproject-rtos",
+                "Matched Packages": [
+                    "Zephyr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-4264",
+        "Products": [
+            {
+                "Product": "Zephyr",
+                "Vendor": "zephyrproject-rtos",
+                "Matched Packages": [
+                    "Zephyr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-4265",
+        "Products": [
+            {
+                "Product": "Zephyr",
+                "Vendor": "zephyrproject-rtos",
+                "Matched Packages": [
+                    "Zephyr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-4424",
+        "Products": [
+            {
+                "Product": "Zephyr",
+                "Vendor": "zephyrproject-rtos",
+                "Matched Packages": [
+                    "Zephyr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-4918",
+        "Products": [
+            {
+                "Product": "keycloak",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "keycloak"
+                ]
+            },
+            {
+                "Product": "Red Hat Single Sign-On 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-4987",
+        "Products": [
+            {
+                "Product": "taskhub",
+                "Vendor": "infinitietech",
+                "Matched Packages": [
+                    "taskhub"
+                ]
+            }
+        ]
+    }
+]

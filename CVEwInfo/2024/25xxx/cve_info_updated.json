@@ -1,1 +1,165 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-25050",
+        "Products": [
+            {
+                "Product": "i",
+                "Vendor": "IBM",
+                "Matched Packages": [
+                    "i"
+                ]
+            },
+            {
+                "Product": "Rational Development Studio for i",
+                "Vendor": "IBM",
+                "Matched Packages": []
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-25096",
+        "Products": [
+            {
+                "Product": "Canto",
+                "Vendor": "Canto Inc.",
+                "Matched Packages": [
+                    "Canto"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-25106",
+        "Products": [
+            {
+                "Product": "openobserve",
+                "Vendor": "openobserve",
+                "Matched Packages": [
+                    "openobserve"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-25111",
+        "Products": [
+            {
+                "Product": "squid",
+                "Vendor": "squid-cache",
+                "Matched Packages": [
+                    "squid"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-25112",
+        "Products": [
+            {
+                "Product": "exiv2",
+                "Vendor": "Exiv2",
+                "Matched Packages": [
+                    "exiv2",
+                    "exiv2",
+                    "exiv2"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-25114",
+        "Products": [
+            {
+                "Product": "online",
+                "Vendor": "CollaboraOnline",
+                "Matched Packages": [
+                    "online"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-25124",
+        "Products": [
+            {
+                "Product": "fiber",
+                "Vendor": "gofiber",
+                "Matched Packages": [
+                    "fiber"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-25126",
+        "Products": [
+            {
+                "Product": "rack",
+                "Vendor": "rack",
+                "Matched Packages": [
+                    "rack"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-25128",
+        "Products": [
+            {
+                "Product": "Flask-AppBuilder",
+                "Vendor": "dpgaspar",
+                "Matched Packages": [
+                    "Flask-AppBuilder"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-25617",
+        "Products": [
+            {
+                "Product": "squid",
+                "Vendor": "squid-cache",
+                "Matched Packages": [
+                    "squid"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-25620",
+        "Products": [
+            {
+                "Product": "helm",
+                "Vendor": "helm",
+                "Matched Packages": [
+                    "helm"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-25639",
+        "Products": [
+            {
+                "Product": "khoj",
+                "Vendor": "khoj-ai",
+                "Matched Packages": [
+                    "khoj"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-25641",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    }
+]

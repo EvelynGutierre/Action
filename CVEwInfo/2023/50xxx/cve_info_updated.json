@@ -1,1 +1,158 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-50246",
+        "Products": [
+            {
+                "Product": "jq",
+                "Vendor": "jqlang",
+                "Matched Packages": [
+                    "jq"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-50247",
+        "Products": [
+            {
+                "Product": "h2o",
+                "Vendor": "h2o",
+                "Matched Packages": [
+                    "h2o"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-50248",
+        "Products": [
+            {
+                "Product": "ckan",
+                "Vendor": "ckan",
+                "Matched Packages": [
+                    "ckan"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-50250",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-50263",
+        "Products": [
+            {
+                "Product": "nautobot",
+                "Vendor": "nautobot",
+                "Matched Packages": [
+                    "nautobot"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-50268",
+        "Products": [
+            {
+                "Product": "jq",
+                "Vendor": "jqlang",
+                "Matched Packages": [
+                    "jq"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-50269",
+        "Products": [
+            {
+                "Product": "squid",
+                "Vendor": "squid-cache",
+                "Matched Packages": [
+                    "squid"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-50423",
+        "Products": [
+            {
+                "Product": "sap-xssec",
+                "Vendor": "SAP_SE",
+                "Matched Packages": [
+                    "sap-xssec"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-50709",
+        "Products": [
+            {
+                "Product": "cube",
+                "Vendor": "cube-js",
+                "Matched Packages": [
+                    "cube"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-50715",
+        "Products": [
+            {
+                "Product": "core",
+                "Vendor": "home-assistant",
+                "Matched Packages": [
+                    "core"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-50717",
+        "Products": [
+            {
+                "Product": "nocodb",
+                "Vendor": "nocodb",
+                "Matched Packages": [
+                    "nocodb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-50718",
+        "Products": [
+            {
+                "Product": "nocodb",
+                "Vendor": "nocodb",
+                "Matched Packages": [
+                    "nocodb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-50730",
+        "Products": [
+            {
+                "Product": "grackle",
+                "Vendor": "typelevel",
+                "Matched Packages": [
+                    "grackle"
+                ]
+            }
+        ]
+    }
+]

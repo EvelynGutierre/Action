@@ -1,0 +1,14 @@
+[
+    {
+        "CVE ID": "CVE-2024-3660",
+        "Products": [
+            {
+                "Product": "keras",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "keras"
+                ]
+            }
+        ]
+    }
+]

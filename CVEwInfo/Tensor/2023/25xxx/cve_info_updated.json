@@ -1,0 +1,242 @@
+[
+    {
+        "CVE ID": "CVE-2023-25658",
+        "Products": [
+            {
+                "Product": "tensorflow",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "tensorflow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-25659",
+        "Products": [
+            {
+                "Product": "tensorflow",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "tensorflow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-25660",
+        "Products": [
+            {
+                "Product": "tensorflow",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "tensorflow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-25661",
+        "Products": [
+            {
+                "Product": "tensorflow",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "tensorflow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-25662",
+        "Products": [
+            {
+                "Product": "tensorflow",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "tensorflow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-25663",
+        "Products": [
+            {
+                "Product": "tensorflow",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "tensorflow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-25664",
+        "Products": [
+            {
+                "Product": "tensorflow",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "tensorflow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-25665",
+        "Products": [
+            {
+                "Product": "tensorflow",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "tensorflow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-25666",
+        "Products": [
+            {
+                "Product": "tensorflow",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "tensorflow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-25667",
+        "Products": [
+            {
+                "Product": "tensorflow",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "tensorflow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-25668",
+        "Products": [
+            {
+                "Product": "tensorflow",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "tensorflow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-25669",
+        "Products": [
+            {
+                "Product": "tensorflow",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "tensorflow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-25670",
+        "Products": [
+            {
+                "Product": "tensorflow",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "tensorflow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-25671",
+        "Products": [
+            {
+                "Product": "tensorflow",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "tensorflow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-25672",
+        "Products": [
+            {
+                "Product": "tensorflow",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "tensorflow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-25673",
+        "Products": [
+            {
+                "Product": "tensorflow",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "tensorflow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-25674",
+        "Products": [
+            {
+                "Product": "tensorflow",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "tensorflow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-25675",
+        "Products": [
+            {
+                "Product": "tensorflow",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "tensorflow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-25676",
+        "Products": [
+            {
+                "Product": "tensorflow",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "tensorflow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-25801",
+        "Products": [
+            {
+                "Product": "tensorflow",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "tensorflow"
+                ]
+            }
+        ]
+    }
+]

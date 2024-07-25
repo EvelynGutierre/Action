@@ -1,1 +1,257 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-35180",
+        "Products": [
+            {
+                "Product": "omero-web",
+                "Vendor": "ome",
+                "Matched Packages": [
+                    "omero-web"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-35185",
+        "Products": [
+            {
+                "Product": "minder",
+                "Vendor": "stacklok",
+                "Matched Packages": [
+                    "minder"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-35189",
+        "Products": [
+            {
+                "Product": "fides",
+                "Vendor": "ethyca",
+                "Matched Packages": [
+                    "fides"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-35190",
+        "Products": [
+            {
+                "Product": "asterisk",
+                "Vendor": "asterisk",
+                "Matched Packages": [
+                    "asterisk"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-35194",
+        "Products": [
+            {
+                "Product": "minder",
+                "Vendor": "stacklok",
+                "Matched Packages": [
+                    "minder"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-35195",
+        "Products": [
+            {
+                "Product": "requests",
+                "Vendor": "psf",
+                "Matched Packages": [
+                    "requests"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-35196",
+        "Products": [
+            {
+                "Product": "sentry",
+                "Vendor": "getsentry",
+                "Matched Packages": [
+                    "sentry"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-35219",
+        "Products": [
+            {
+                "Product": "openapi-generator",
+                "Vendor": "OpenAPITools",
+                "Matched Packages": [
+                    "openapi-generator",
+                    "openapi-generator"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-35223",
+        "Products": [
+            {
+                "Product": "dapr",
+                "Vendor": "dapr",
+                "Matched Packages": [
+                    "dapr",
+                    "dapr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-35224",
+        "Products": [
+            {
+                "Product": "openproject",
+                "Vendor": "opf",
+                "Matched Packages": [
+                    "openproject"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-35225",
+        "Products": [
+            {
+                "Product": "jupyter-server-proxy",
+                "Vendor": "jupyterhub",
+                "Matched Packages": [
+                    "jupyter-server-proxy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-35226",
+        "Products": [
+            {
+                "Product": "smarty",
+                "Vendor": "smarty-php",
+                "Matched Packages": [
+                    "smarty"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-35227",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-35228",
+        "Products": [
+            {
+                "Product": "wagtail",
+                "Vendor": "wagtail",
+                "Matched Packages": [
+                    "wagtail"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-35234",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-35235",
+        "Products": [
+            {
+                "Product": "cups",
+                "Vendor": "OpenPrinting",
+                "Matched Packages": [
+                    "cups"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-35238",
+        "Products": [
+            {
+                "Product": "minder",
+                "Vendor": "stacklok",
+                "Matched Packages": [
+                    "minder"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-35241",
+        "Products": [
+            {
+                "Product": "composer",
+                "Vendor": "composer",
+                "Matched Packages": [
+                    "composer"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-35242",
+        "Products": [
+            {
+                "Product": "composer",
+                "Vendor": "composer",
+                "Matched Packages": [
+                    "composer"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-35758",
+        "Products": [
+            {
+                "Product": "Interface",
+                "Vendor": "Theme Horse",
+                "Matched Packages": [
+                    "Interface"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-35777",
+        "Products": [
+            {
+                "Product": "WooCommerce",
+                "Vendor": "Automattic",
+                "Matched Packages": [
+                    "WooCommerce",
+                    "WooCommerce"
+                ]
+            }
+        ]
+    }
+]

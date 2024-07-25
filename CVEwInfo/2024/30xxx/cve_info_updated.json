@@ -1,1 +1,74 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-30251",
+        "Products": [
+            {
+                "Product": "aiohttp",
+                "Vendor": "aio-libs",
+                "Matched Packages": [
+                    "aiohttp"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-30255",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-30256",
+        "Products": [
+            {
+                "Product": "open-webui",
+                "Vendor": "open-webui",
+                "Matched Packages": [
+                    "open-webui"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-30265",
+        "Products": [
+            {
+                "Product": "voila",
+                "Vendor": "voila-dashboards",
+                "Matched Packages": [
+                    "voila"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-30266",
+        "Products": [
+            {
+                "Product": "wasmtime",
+                "Vendor": "bytecodealliance",
+                "Matched Packages": [
+                    "wasmtime"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-30268",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    }
+]

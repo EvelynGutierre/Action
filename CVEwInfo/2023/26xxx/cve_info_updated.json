@@ -1,1 +1,348 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-26040",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-26044",
+        "Products": [
+            {
+                "Product": "http",
+                "Vendor": "reactphp",
+                "Matched Packages": [
+                    "http"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-26051",
+        "Products": [
+            {
+                "Product": "saleor",
+                "Vendor": "saleor",
+                "Matched Packages": [
+                    "saleor"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-26052",
+        "Products": [
+            {
+                "Product": "saleor",
+                "Vendor": "saleor",
+                "Matched Packages": [
+                    "saleor"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-26054",
+        "Products": [
+            {
+                "Product": "buildkit",
+                "Vendor": "moby",
+                "Matched Packages": [
+                    "buildkit"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-26103",
+        "Products": [
+            {
+                "Product": "deno",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "deno"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-26105",
+        "Products": [
+            {
+                "Product": "utilities",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "utilities"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-26112",
+        "Products": [
+            {
+                "Product": "configobj",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "configobj"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-26135",
+        "Products": [
+            {
+                "Product": "flatnest",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "flatnest"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-26144",
+        "Products": [
+            {
+                "Product": "graphql",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "graphql"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-26145",
+        "Products": [
+            {
+                "Product": "pydash",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "pydash"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-26150",
+        "Products": [
+            {
+                "Product": "asyncua",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "asyncua"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-26151",
+        "Products": [
+            {
+                "Product": "asyncua",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "asyncua"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-26154",
+        "Products": [
+            {
+                "Product": "pubnub",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "pubnub"
+                ]
+            },
+            {
+                "Product": "com.pubnub:pubnub",
+                "Vendor": "n/a",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Pubnub",
+                "Vendor": "n/a",
+                "Matched Packages": []
+            },
+            {
+                "Product": "github.com/pubnub/go",
+                "Vendor": "n/a",
+                "Matched Packages": []
+            },
+            {
+                "Product": "github.com/pubnub/go/v7",
+                "Vendor": "n/a",
+                "Matched Packages": []
+            },
+            {
+                "Product": "pubnub",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "pubnub"
+                ]
+            },
+            {
+                "Product": "pubnub/pubnub",
+                "Vendor": "n/a",
+                "Matched Packages": []
+            },
+            {
+                "Product": "pubnub",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "pubnub"
+                ]
+            },
+            {
+                "Product": "pubnub",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "pubnub"
+                ]
+            },
+            {
+                "Product": "pubnub/c-core",
+                "Vendor": "n/a",
+                "Matched Packages": []
+            },
+            {
+                "Product": "com.pubnub:pubnub-kotlin",
+                "Vendor": "n/a",
+                "Matched Packages": []
+            },
+            {
+                "Product": "pubnub/swift",
+                "Vendor": "n/a",
+                "Matched Packages": []
+            },
+            {
+                "Product": "PubNub",
+                "Vendor": "n/a",
+                "Matched Packages": []
+            },
+            {
+                "Product": "pubnub",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "pubnub"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-26156",
+        "Products": [
+            {
+                "Product": "chromedriver",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "chromedriver"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-26302",
+        "Products": [
+            {
+                "Product": "markdown-it-py",
+                "Vendor": "Executable Books",
+                "Matched Packages": [
+                    "markdown-it-py"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-26303",
+        "Products": [
+            {
+                "Product": "markdown-it-py",
+                "Vendor": "Executable Books",
+                "Matched Packages": [
+                    "markdown-it-py"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-26486",
+        "Products": [
+            {
+                "Product": "vega",
+                "Vendor": "vega",
+                "Matched Packages": [
+                    "vega"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-26487",
+        "Products": [
+            {
+                "Product": "vega",
+                "Vendor": "vega",
+                "Matched Packages": [
+                    "vega"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-26489",
+        "Products": [
+            {
+                "Product": "wasmtime",
+                "Vendor": "bytecodealliance",
+                "Matched Packages": [
+                    "wasmtime"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-26590",
+        "Products": [
+            {
+                "Product": "sox",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "sox",
+                    "sox"
+                ]
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 6",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Fedora",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Extra Packages for Enterprise Linux",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            }
+        ]
+    }
+]

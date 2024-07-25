@@ -1,1 +1,460 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-32001",
+        "Products": [
+            {
+                "Product": "spicedb",
+                "Vendor": "authzed",
+                "Matched Packages": [
+                    "spicedb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32005",
+        "Products": [
+            {
+                "Product": "nicegui",
+                "Vendor": "zauberzeug",
+                "Matched Packages": [
+                    "nicegui"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32019",
+        "Products": [
+            {
+                "Product": "netdata",
+                "Vendor": "netdata",
+                "Matched Packages": [
+                    "netdata"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32461",
+        "Products": [
+            {
+                "Product": "librenms",
+                "Vendor": "librenms",
+                "Matched Packages": [
+                    "librenms"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32463",
+        "Products": [
+            {
+                "Product": "phlex",
+                "Vendor": "phlex-ruby",
+                "Matched Packages": [
+                    "phlex"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32473",
+        "Products": [
+            {
+                "Product": "moby",
+                "Vendor": "moby",
+                "Matched Packages": [
+                    "moby"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32474",
+        "Products": [
+            {
+                "Product": "sentry",
+                "Vendor": "getsentry",
+                "Matched Packages": [
+                    "sentry"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32475",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32477",
+        "Products": [
+            {
+                "Product": "deno",
+                "Vendor": "denoland",
+                "Matched Packages": [
+                    "deno"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32479",
+        "Products": [
+            {
+                "Product": "librenms",
+                "Vendor": "librenms",
+                "Matched Packages": [
+                    "librenms"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32480",
+        "Products": [
+            {
+                "Product": "librenms",
+                "Vendor": "librenms",
+                "Matched Packages": [
+                    "librenms"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32481",
+        "Products": [
+            {
+                "Product": "vyper",
+                "Vendor": "vyperlang",
+                "Matched Packages": [
+                    "vyper"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32644",
+        "Products": [
+            {
+                "Product": "evmos",
+                "Vendor": "evmos",
+                "Matched Packages": [
+                    "evmos",
+                    "evmos"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32645",
+        "Products": [
+            {
+                "Product": "vyper",
+                "Vendor": "vyperlang",
+                "Matched Packages": [
+                    "vyper"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32646",
+        "Products": [
+            {
+                "Product": "vyper",
+                "Vendor": "vyperlang",
+                "Matched Packages": [
+                    "vyper"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32647",
+        "Products": [
+            {
+                "Product": "vyper",
+                "Vendor": "vyperlang",
+                "Matched Packages": [
+                    "vyper"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32648",
+        "Products": [
+            {
+                "Product": "vyper",
+                "Vendor": "vyperlang",
+                "Matched Packages": [
+                    "vyper"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32649",
+        "Products": [
+            {
+                "Product": "vyper",
+                "Vendor": "vyperlang",
+                "Matched Packages": [
+                    "vyper"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32651",
+        "Products": [
+            {
+                "Product": "changedetection.io",
+                "Vendor": "dgtlmoon",
+                "Matched Packages": [
+                    "changedetection.io"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32792",
+        "Products": [
+            {
+                "Product": "Hummingbird",
+                "Vendor": "WPMU DEV",
+                "Matched Packages": [
+                    "Hummingbird"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32866",
+        "Products": [
+            {
+                "Product": "conform",
+                "Vendor": "edmundhung",
+                "Matched Packages": [
+                    "conform"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32873",
+        "Products": [
+            {
+                "Product": "evmos",
+                "Vendor": "evmos",
+                "Matched Packages": [
+                    "evmos",
+                    "evmos"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32874",
+        "Products": [
+            {
+                "Product": "frigate",
+                "Vendor": "blakeblackshear",
+                "Matched Packages": [
+                    "frigate"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32875",
+        "Products": [
+            {
+                "Product": "hugo",
+                "Vendor": "gohugoio",
+                "Matched Packages": [
+                    "hugo"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32880",
+        "Products": [
+            {
+                "Product": "pyload",
+                "Vendor": "pyload",
+                "Matched Packages": [
+                    "pyload"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32882",
+        "Products": [
+            {
+                "Product": "wagtail",
+                "Vendor": "wagtail",
+                "Matched Packages": [
+                    "wagtail"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32890",
+        "Products": [
+            {
+                "Product": "speedtest",
+                "Vendor": "librespeed",
+                "Matched Packages": [
+                    "speedtest"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32969",
+        "Products": [
+            {
+                "Product": "vantage6",
+                "Vendor": "vantage6",
+                "Matched Packages": [
+                    "vantage6"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32970",
+        "Products": [
+            {
+                "Product": "phlex",
+                "Vendor": "phlex-ruby",
+                "Matched Packages": [
+                    "phlex"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32971",
+        "Products": [
+            {
+                "Product": "router",
+                "Vendor": "apollographql",
+                "Matched Packages": [
+                    "router"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32973",
+        "Products": [
+            {
+                "Product": "Pluto",
+                "Vendor": "PlutoLang",
+                "Matched Packages": [
+                    "Pluto"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32974",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32975",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32976",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32977",
+        "Products": [
+            {
+                "Product": "OctoPrint",
+                "Vendor": "OctoPrint",
+                "Matched Packages": [
+                    "OctoPrint"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32979",
+        "Products": [
+            {
+                "Product": "nautobot",
+                "Vendor": "nautobot",
+                "Matched Packages": [
+                    "nautobot"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32980",
+        "Products": [
+            {
+                "Product": "spin",
+                "Vendor": "fermyon",
+                "Matched Packages": [
+                    "spin"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-32982",
+        "Products": [
+            {
+                "Product": "litestar",
+                "Vendor": "litestar-org",
+                "Matched Packages": [
+                    "litestar"
+                ]
+            }
+        ]
+    }
+]

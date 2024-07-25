@@ -1,1 +1,241 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-42006",
+        "Products": [
+            {
+                "Product": "i",
+                "Vendor": "IBM",
+                "Matched Packages": [
+                    "i"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-42441",
+        "Products": [
+            {
+                "Product": "vyper",
+                "Vendor": "vyperlang",
+                "Matched Packages": [
+                    "vyper"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-42443",
+        "Products": [
+            {
+                "Product": "vyper",
+                "Vendor": "vyperlang",
+                "Matched Packages": [
+                    "vyper"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-42446",
+        "Products": [
+            {
+                "Product": "pow",
+                "Vendor": "pow-auth",
+                "Matched Packages": [
+                    "pow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-42453",
+        "Products": [
+            {
+                "Product": "synapse",
+                "Vendor": "matrix-org",
+                "Matched Packages": [
+                    "synapse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-42457",
+        "Products": [
+            {
+                "Product": "plone.rest",
+                "Vendor": "plone",
+                "Matched Packages": [
+                    "plone.rest"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-42458",
+        "Products": [
+            {
+                "Product": "Zope",
+                "Vendor": "zopefoundation",
+                "Matched Packages": [
+                    "Zope"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-42460",
+        "Products": [
+            {
+                "Product": "vyper",
+                "Vendor": "vyperlang",
+                "Matched Packages": [
+                    "vyper"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-42461",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-42462",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-42670",
+        "Products": [
+            {
+                "Product": "samba",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "samba"
+                ]
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 6",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 6",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 8",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 9",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Storage 3",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Fedora",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-42802",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-42803",
+        "Products": [
+            {
+                "Product": "bigbluebutton",
+                "Vendor": "bigbluebutton",
+                "Matched Packages": [
+                    "bigbluebutton"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-42804",
+        "Products": [
+            {
+                "Product": "bigbluebutton",
+                "Vendor": "bigbluebutton",
+                "Matched Packages": [
+                    "bigbluebutton"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-42805",
+        "Products": [
+            {
+                "Product": "quinn",
+                "Vendor": "quinn-rs",
+                "Matched Packages": [
+                    "quinn"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-42807",
+        "Products": [
+            {
+                "Product": "lms",
+                "Vendor": "frappe",
+                "Matched Packages": [
+                    "lms"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-42812",
+        "Products": [
+            {
+                "Product": "galaxy",
+                "Vendor": "galaxyproject",
+                "Matched Packages": [
+                    "galaxy"
+                ]
+            }
+        ]
+    }
+]

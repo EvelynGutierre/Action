@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2013-1771",
+        "Products": [
+            {
+                "Product": "monkey",
+                "Vendor": "monkey",
+                "Matched Packages": [
+                    "monkey"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2013-1816",
+        "Products": [
+            {
+                "Product": "mediawiki",
+                "Vendor": "mediawiki",
+                "Matched Packages": [
+                    "mediawiki"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2013-1817",
+        "Products": [
+            {
+                "Product": "mediawiki",
+                "Vendor": "mediawiki",
+                "Matched Packages": [
+                    "mediawiki"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2013-1895",
+        "Products": [
+            {
+                "Product": "py-bcrypt",
+                "Vendor": "py-bcrypt",
+                "Matched Packages": [
+                    "py-bcrypt"
+                ]
+            }
+        ]
+    }
+]

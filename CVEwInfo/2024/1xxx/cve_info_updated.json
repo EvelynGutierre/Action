@@ -1,1 +1,122 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-1310",
+        "Products": [
+            {
+                "Product": "WooCommerce",
+                "Vendor": "Unknown",
+                "Matched Packages": [
+                    "WooCommerce",
+                    "WooCommerce"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-1312",
+        "Products": [
+            {
+                "Product": "kernel",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "kernel"
+                ]
+            },
+            {
+                "Product": "kernel",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "kernel"
+                ]
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 6",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 8",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 8",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 9",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 9",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Fedora",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-1410",
+        "Products": [
+            {
+                "Product": "quiche",
+                "Vendor": "Cloudflare",
+                "Matched Packages": [
+                    "quiche"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-1638",
+        "Products": [
+            {
+                "Product": "Zephyr",
+                "Vendor": "zephyrproject-rtos",
+                "Matched Packages": [
+                    "Zephyr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-1647",
+        "Products": [
+            {
+                "Product": "pyhtml2pdf",
+                "Vendor": "pyhtml2pdf",
+                "Matched Packages": [
+                    "pyhtml2pdf"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-1765",
+        "Products": [
+            {
+                "Product": "quiche",
+                "Vendor": "Cloudflare",
+                "Matched Packages": [
+                    "quiche"
+                ]
+            }
+        ]
+    }
+]

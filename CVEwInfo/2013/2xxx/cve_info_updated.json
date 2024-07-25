@@ -1,1 +1,122 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2013-2024",
+        "Products": [
+            {
+                "Product": "chicken",
+                "Vendor": "chicken",
+                "Matched Packages": [
+                    "chicken"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2013-2075",
+        "Products": [
+            {
+                "Product": "chicken",
+                "Vendor": "chicken",
+                "Matched Packages": [
+                    "chicken"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2013-2091",
+        "Products": [
+            {
+                "Product": "dolibarr",
+                "Vendor": "dolibarr",
+                "Matched Packages": [
+                    "dolibarr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2013-2092",
+        "Products": [
+            {
+                "Product": "dolibarr",
+                "Vendor": "dolibarr",
+                "Matched Packages": [
+                    "dolibarr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2013-2093",
+        "Products": [
+            {
+                "Product": "dolibarr",
+                "Vendor": "dolibarr",
+                "Matched Packages": [
+                    "dolibarr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2013-2106",
+        "Products": [
+            {
+                "Product": "webauth",
+                "Vendor": "webauth",
+                "Matched Packages": [
+                    "webauth"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2013-2159",
+        "Products": [
+            {
+                "Product": "monkey",
+                "Vendor": "monkey",
+                "Matched Packages": [
+                    "monkey"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2013-2166",
+        "Products": [
+            {
+                "Product": "python-keystoneclient",
+                "Vendor": "python-keystoneclient",
+                "Matched Packages": [
+                    "python-keystoneclient"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2013-2167",
+        "Products": [
+            {
+                "Product": "python-keystoneclient",
+                "Vendor": "python-keystoneclient",
+                "Matched Packages": [
+                    "python-keystoneclient"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2013-2183",
+        "Products": [
+            {
+                "Product": "monkey",
+                "Vendor": "monkey",
+                "Matched Packages": [
+                    "monkey"
+                ]
+            }
+        ]
+    }
+]

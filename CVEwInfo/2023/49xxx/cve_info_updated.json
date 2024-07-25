@@ -1,1 +1,303 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-49081",
+        "Products": [
+            {
+                "Product": "aiohttp",
+                "Vendor": "aio-libs",
+                "Matched Packages": [
+                    "aiohttp"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49082",
+        "Products": [
+            {
+                "Product": "aiohttp",
+                "Vendor": "aio-libs",
+                "Matched Packages": [
+                    "aiohttp"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49083",
+        "Products": [
+            {
+                "Product": "cryptography",
+                "Vendor": "pyca",
+                "Matched Packages": [
+                    "cryptography"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49084",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49085",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49086",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49088",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49096",
+        "Products": [
+            {
+                "Product": "jellyfin",
+                "Vendor": "jellyfin",
+                "Matched Packages": [
+                    "jellyfin"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49099",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49277",
+        "Products": [
+            {
+                "Product": "dpaste",
+                "Vendor": "DarrenOfficial",
+                "Matched Packages": [
+                    "dpaste"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49285",
+        "Products": [
+            {
+                "Product": "squid",
+                "Vendor": "squid-cache",
+                "Matched Packages": [
+                    "squid"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49286",
+        "Products": [
+            {
+                "Product": "squid",
+                "Vendor": "squid-cache",
+                "Matched Packages": [
+                    "squid"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49288",
+        "Products": [
+            {
+                "Product": "squid",
+                "Vendor": "squid-cache",
+                "Matched Packages": [
+                    "squid"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49292",
+        "Products": [
+            {
+                "Product": "go",
+                "Vendor": "ecies",
+                "Matched Packages": [
+                    "go"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49293",
+        "Products": [
+            {
+                "Product": "vite",
+                "Vendor": "vitejs",
+                "Matched Packages": [
+                    "vite"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49294",
+        "Products": [
+            {
+                "Product": "asterisk",
+                "Vendor": "asterisk",
+                "Matched Packages": [
+                    "asterisk"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49297",
+        "Products": [
+            {
+                "Product": "PyDrive2",
+                "Vendor": "iterative",
+                "Matched Packages": [
+                    "PyDrive2"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49600",
+        "Products": [
+            {
+                "Product": "libigl",
+                "Vendor": "libigl",
+                "Matched Packages": [
+                    "libigl"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49781",
+        "Products": [
+            {
+                "Product": "nocodb",
+                "Vendor": "nocodb",
+                "Matched Packages": [
+                    "nocodb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49782",
+        "Products": [
+            {
+                "Product": "online",
+                "Vendor": "CollaboraOnline",
+                "Matched Packages": [
+                    "online"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49786",
+        "Products": [
+            {
+                "Product": "asterisk",
+                "Vendor": "asterisk",
+                "Matched Packages": [
+                    "asterisk"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49788",
+        "Products": [
+            {
+                "Product": "online",
+                "Vendor": "CollaboraOnline",
+                "Matched Packages": [
+                    "online"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49793",
+        "Products": [
+            {
+                "Product": "codechecker",
+                "Vendor": "Ericsson",
+                "Matched Packages": [
+                    "codechecker"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49797",
+        "Products": [
+            {
+                "Product": "pyinstaller",
+                "Vendor": "pyinstaller",
+                "Matched Packages": [
+                    "pyinstaller"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-49803",
+        "Products": [
+            {
+                "Product": "cors",
+                "Vendor": "koajs",
+                "Matched Packages": [
+                    "cors",
+                    "cors"
+                ]
+            }
+        ]
+    }
+]

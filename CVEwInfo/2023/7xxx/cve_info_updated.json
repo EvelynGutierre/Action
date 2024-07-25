@@ -1,1 +1,104 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-7060",
+        "Products": [
+            {
+                "Product": "Zephyr",
+                "Vendor": "zephyrproject-rtos",
+                "Matched Packages": [
+                    "Zephyr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-7079",
+        "Products": [
+            {
+                "Product": "wrangler",
+                "Vendor": "Cloudflare",
+                "Matched Packages": [
+                    "wrangler"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-7080",
+        "Products": [
+            {
+                "Product": "wrangler",
+                "Vendor": "Cloudflare",
+                "Matched Packages": [
+                    "wrangler"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-7090",
+        "Products": [
+            {
+                "Product": "sudo",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "sudo"
+                ]
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 6",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 8",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 9",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Fedora",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Fedora",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-7148",
+        "Products": [
+            {
+                "Product": "shifu",
+                "Vendor": "ShifuML",
+                "Matched Packages": [
+                    "shifu"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-7193",
+        "Products": [
+            {
+                "Product": "Bookmark",
+                "Vendor": "MTab",
+                "Matched Packages": [
+                    "Bookmark"
+                ]
+            }
+        ]
+    }
+]

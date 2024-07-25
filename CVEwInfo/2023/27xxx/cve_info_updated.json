@@ -1,1 +1,225 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-27476",
+        "Products": [
+            {
+                "Product": "OWSLib",
+                "Vendor": "geopython",
+                "Matched Packages": [
+                    "OWSLib"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-27477",
+        "Products": [
+            {
+                "Product": "wasmtime",
+                "Vendor": "bytecodealliance",
+                "Matched Packages": [
+                    "wasmtime"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-27482",
+        "Products": [
+            {
+                "Product": "core",
+                "Vendor": "home-assistant",
+                "Matched Packages": [
+                    "core"
+                ]
+            },
+            {
+                "Product": "supervisor",
+                "Vendor": "home-assistant",
+                "Matched Packages": [
+                    "supervisor"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-27484",
+        "Products": [
+            {
+                "Product": "crossplane",
+                "Vendor": "crossplane",
+                "Matched Packages": [
+                    "crossplane"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-27487",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-27488",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-27491",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-27492",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-27493",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-27494",
+        "Products": [
+            {
+                "Product": "streamlit",
+                "Vendor": "streamlit",
+                "Matched Packages": [
+                    "streamlit"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-27496",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-27578",
+        "Products": [
+            {
+                "Product": "galaxy",
+                "Vendor": "galaxyproject",
+                "Matched Packages": [
+                    "galaxy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-27579",
+        "Products": [
+            {
+                "Product": "tensorflow",
+                "Vendor": "tensorflow",
+                "Matched Packages": [
+                    "tensorflow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-27580",
+        "Products": [
+            {
+                "Product": "shield",
+                "Vendor": "codeigniter4",
+                "Matched Packages": [
+                    "shield"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-27586",
+        "Products": [
+            {
+                "Product": "CairoSVG",
+                "Vendor": "Kozea",
+                "Matched Packages": [
+                    "CairoSVG"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-27589",
+        "Products": [
+            {
+                "Product": "minio",
+                "Vendor": "minio",
+                "Matched Packages": [
+                    "minio"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-27591",
+        "Products": [
+            {
+                "Product": "v2",
+                "Vendor": "miniflux",
+                "Matched Packages": [
+                    "v2"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-27592",
+        "Products": [
+            {
+                "Product": "v2",
+                "Vendor": "miniflux",
+                "Matched Packages": [
+                    "v2"
+                ]
+            }
+        ]
+    }
+]

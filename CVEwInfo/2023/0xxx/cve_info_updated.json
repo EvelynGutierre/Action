@@ -1,1 +1,321 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-0030",
+        "Products": [
+            {
+                "Product": "kernel",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "kernel"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-0160",
+        "Products": [
+            {
+                "Product": "kernel",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "kernel"
+                ]
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 6",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 8",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 8",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 9",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 9",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Fedora",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-0179",
+        "Products": [
+            {
+                "Product": "kernel",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "kernel"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-0359",
+        "Products": [
+            {
+                "Product": "Zephyr",
+                "Vendor": "zephyrproject-rtos",
+                "Matched Packages": [
+                    "Zephyr"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-0456",
+        "Products": [
+            {
+                "Product": "apicast",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "apicast"
+                ]
+            },
+            {
+                "Product": "Red Hat 3scale API Management Platform 2",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-0462",
+        "Products": [
+            {
+                "Product": "foreman",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "foreman"
+                ]
+            },
+            {
+                "Product": "Red Hat Satellite 6",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-0482",
+        "Products": [
+            {
+                "Product": "RESTEasy",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "RESTEasy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-0592",
+        "Products": [
+            {
+                "Product": "jefferson",
+                "Vendor": "sviehb",
+                "Matched Packages": [
+                    "jefferson"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-0778",
+        "Products": [
+            {
+                "Product": "podman",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "podman"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-0795",
+        "Products": [
+            {
+                "Product": "libtiff",
+                "Vendor": "libtiff",
+                "Matched Packages": [
+                    "libtiff"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-0796",
+        "Products": [
+            {
+                "Product": "libtiff",
+                "Vendor": "libtiff",
+                "Matched Packages": [
+                    "libtiff"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-0797",
+        "Products": [
+            {
+                "Product": "libtiff",
+                "Vendor": "libtiff",
+                "Matched Packages": [
+                    "libtiff"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-0798",
+        "Products": [
+            {
+                "Product": "libtiff",
+                "Vendor": "libtiff",
+                "Matched Packages": [
+                    "libtiff"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-0799",
+        "Products": [
+            {
+                "Product": "libtiff",
+                "Vendor": "libtiff",
+                "Matched Packages": [
+                    "libtiff"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-0800",
+        "Products": [
+            {
+                "Product": "libtiff",
+                "Vendor": "libtiff",
+                "Matched Packages": [
+                    "libtiff"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-0801",
+        "Products": [
+            {
+                "Product": "libtiff",
+                "Vendor": "libtiff",
+                "Matched Packages": [
+                    "libtiff"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-0802",
+        "Products": [
+            {
+                "Product": "libtiff",
+                "Vendor": "libtiff",
+                "Matched Packages": [
+                    "libtiff"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-0803",
+        "Products": [
+            {
+                "Product": "libtiff",
+                "Vendor": "libtiff",
+                "Matched Packages": [
+                    "libtiff"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-0804",
+        "Products": [
+            {
+                "Product": "libtiff",
+                "Vendor": "libtiff",
+                "Matched Packages": [
+                    "libtiff"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-0835",
+        "Products": [
+            {
+                "Product": "markdown-pdf",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "markdown-pdf"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-0842",
+        "Products": [
+            {
+                "Product": "xml2js",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "xml2js"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-0845",
+        "Products": [
+            {
+                "Product": "Consul",
+                "Vendor": "HashiCorp",
+                "Matched Packages": [
+                    "Consul"
+                ]
+            },
+            {
+                "Product": "Consul Enterprise",
+                "Vendor": "HashiCorp",
+                "Matched Packages": []
+            }
+        ]
+    }
+]

@@ -1,1 +1,252 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-31205",
+        "Products": [
+            {
+                "Product": "saleor",
+                "Vendor": "saleor",
+                "Matched Packages": [
+                    "saleor"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-31207",
+        "Products": [
+            {
+                "Product": "vite",
+                "Vendor": "vitejs",
+                "Matched Packages": [
+                    "vite"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-31208",
+        "Products": [
+            {
+                "Product": "synapse",
+                "Vendor": "element-hq",
+                "Matched Packages": [
+                    "synapse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-31217",
+        "Products": [
+            {
+                "Product": "strapi",
+                "Vendor": "strapi",
+                "Matched Packages": [
+                    "strapi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-31223",
+        "Products": [
+            {
+                "Product": "fides",
+                "Vendor": "ethyca",
+                "Matched Packages": [
+                    "fides"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-31305",
+        "Products": [
+            {
+                "Product": "Transcoder",
+                "Vendor": "rtCamp",
+                "Matched Packages": [
+                    "Transcoder"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-31420",
+        "Products": [
+            {
+                "Product": "cnv",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "cnv"
+                ]
+            },
+            {
+                "Product": "kubevirt",
+                "Vendor": "n/a",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat OpenShift Virtualization 4",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-31443",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-31444",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-31445",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-31455",
+        "Products": [
+            {
+                "Product": "minder",
+                "Vendor": "stacklok",
+                "Matched Packages": [
+                    "minder"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-31456",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-31458",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-31459",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-31460",
+        "Products": [
+            {
+                "Product": "cacti",
+                "Vendor": "Cacti",
+                "Matched Packages": [
+                    "cacti"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-31461",
+        "Products": [
+            {
+                "Product": "plane",
+                "Vendor": "makeplane",
+                "Matched Packages": [
+                    "plane"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-31870",
+        "Products": [
+            {
+                "Product": "i",
+                "Vendor": "IBM",
+                "Matched Packages": [
+                    "i"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-31878",
+        "Products": [
+            {
+                "Product": "i",
+                "Vendor": "IBM",
+                "Matched Packages": [
+                    "i"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-31879",
+        "Products": [
+            {
+                "Product": "i",
+                "Vendor": "IBM",
+                "Matched Packages": [
+                    "i"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-31890",
+        "Products": [
+            {
+                "Product": "i",
+                "Vendor": "IBM",
+                "Matched Packages": [
+                    "i"
+                ]
+            }
+        ]
+    }
+]

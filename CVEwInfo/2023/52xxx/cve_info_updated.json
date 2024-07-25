@@ -1,1 +1,51 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-52083",
+        "Products": [
+            {
+                "Product": "winter",
+                "Vendor": "wintercms",
+                "Matched Packages": [
+                    "winter"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-52084",
+        "Products": [
+            {
+                "Product": "winter",
+                "Vendor": "wintercms",
+                "Matched Packages": [
+                    "winter"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-52085",
+        "Products": [
+            {
+                "Product": "winter",
+                "Vendor": "wintercms",
+                "Matched Packages": [
+                    "winter"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-52222",
+        "Products": [
+            {
+                "Product": "WooCommerce",
+                "Vendor": "Automattic",
+                "Matched Packages": [
+                    "WooCommerce",
+                    "WooCommerce"
+                ]
+            }
+        ]
+    }
+]

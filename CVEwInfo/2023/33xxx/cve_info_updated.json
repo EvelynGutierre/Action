@@ -1,1 +1,256 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-33176",
+        "Products": [
+            {
+                "Product": "bigbluebutton",
+                "Vendor": "bigbluebutton",
+                "Matched Packages": [
+                    "bigbluebutton"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-33185",
+        "Products": [
+            {
+                "Product": "django-ses",
+                "Vendor": "django-ses",
+                "Matched Packages": [
+                    "django-ses"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-33186",
+        "Products": [
+            {
+                "Product": "zulip",
+                "Vendor": "zulip",
+                "Matched Packages": [
+                    "zulip"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-33193",
+        "Products": [
+            {
+                "Product": "security",
+                "Vendor": "EmbySupport",
+                "Matched Packages": [
+                    "security"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-33194",
+        "Products": [
+            {
+                "Product": "cms",
+                "Vendor": "craftcms",
+                "Matched Packages": [
+                    "cms"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-33195",
+        "Products": [
+            {
+                "Product": "cms",
+                "Vendor": "craftcms",
+                "Matched Packages": [
+                    "cms"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-33196",
+        "Products": [
+            {
+                "Product": "cms",
+                "Vendor": "craftcms",
+                "Matched Packages": [
+                    "cms"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-33197",
+        "Products": [
+            {
+                "Product": "cms",
+                "Vendor": "craftcms",
+                "Matched Packages": [
+                    "cms"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-33199",
+        "Products": [
+            {
+                "Product": "rekor",
+                "Vendor": "sigstore",
+                "Matched Packages": [
+                    "rekor"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-33231",
+        "Products": [
+            {
+                "Product": "DPA",
+                "Vendor": "SolarWinds",
+                "Matched Packages": [
+                    "DPA"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-33955",
+        "Products": [
+            {
+                "Product": "console",
+                "Vendor": "minio",
+                "Matched Packages": [
+                    "console"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-33956",
+        "Products": [
+            {
+                "Product": "kanboard",
+                "Vendor": "kanboard",
+                "Matched Packages": [
+                    "kanboard"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-33957",
+        "Products": [
+            {
+                "Product": "notation",
+                "Vendor": "notaryproject",
+                "Matched Packages": [
+                    "notation",
+                    "notation"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-33958",
+        "Products": [
+            {
+                "Product": "notation",
+                "Vendor": "notaryproject",
+                "Matched Packages": [
+                    "notation",
+                    "notation"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-33960",
+        "Products": [
+            {
+                "Product": "openproject",
+                "Vendor": "opf",
+                "Matched Packages": [
+                    "openproject"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-33965",
+        "Products": [
+            {
+                "Product": "brook",
+                "Vendor": "txthinking",
+                "Matched Packages": [
+                    "brook"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-33966",
+        "Products": [
+            {
+                "Product": "deno",
+                "Vendor": "denoland",
+                "Matched Packages": [
+                    "deno"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-33968",
+        "Products": [
+            {
+                "Product": "kanboard",
+                "Vendor": "kanboard",
+                "Matched Packages": [
+                    "kanboard"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-33969",
+        "Products": [
+            {
+                "Product": "kanboard",
+                "Vendor": "kanboard",
+                "Matched Packages": [
+                    "kanboard"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-33970",
+        "Products": [
+            {
+                "Product": "kanboard",
+                "Vendor": "kanboard",
+                "Matched Packages": [
+                    "kanboard"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-33971",
+        "Products": [
+            {
+                "Product": "formcreator",
+                "Vendor": "pluginsGLPI",
+                "Matched Packages": [
+                    "formcreator"
+                ]
+            }
+        ]
+    }
+]

@@ -1,1 +1,158 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-0394",
+        "Products": [
+            {
+                "Product": "Minerva",
+                "Vendor": "Rapid7",
+                "Matched Packages": [
+                    "Minerva"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-0490",
+        "Products": [
+            {
+                "Product": "ERP",
+                "Vendor": "Huaxia",
+                "Matched Packages": [
+                    "ERP"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-0491",
+        "Products": [
+            {
+                "Product": "ERP",
+                "Vendor": "Huaxia",
+                "Matched Packages": [
+                    "ERP"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-0546",
+        "Products": [
+            {
+                "Product": "EasyFTP",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "EasyFTP"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-0784",
+        "Products": [
+            {
+                "Product": "octopus",
+                "Vendor": "hongmaple",
+                "Matched Packages": [
+                    "octopus"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-0890",
+        "Products": [
+            {
+                "Product": "octopus",
+                "Vendor": "hongmaple",
+                "Matched Packages": [
+                    "octopus"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-0891",
+        "Products": [
+            {
+                "Product": "octopus",
+                "Vendor": "hongmaple",
+                "Matched Packages": [
+                    "octopus"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-0937",
+        "Products": [
+            {
+                "Product": "synthcity",
+                "Vendor": "van_der_Schaar LAB",
+                "Matched Packages": [
+                    "synthcity"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-0960",
+        "Products": [
+            {
+                "Product": "ai-flow",
+                "Vendor": "flink-extended",
+                "Matched Packages": [
+                    "ai-flow"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-0990",
+        "Products": [
+            {
+                "Product": "i6",
+                "Vendor": "Tenda",
+                "Matched Packages": [
+                    "i6"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-0991",
+        "Products": [
+            {
+                "Product": "i6",
+                "Vendor": "Tenda",
+                "Matched Packages": [
+                    "i6"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-0992",
+        "Products": [
+            {
+                "Product": "i6",
+                "Vendor": "Tenda",
+                "Matched Packages": [
+                    "i6"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-0993",
+        "Products": [
+            {
+                "Product": "i6",
+                "Vendor": "Tenda",
+                "Matched Packages": [
+                    "i6"
+                ]
+            }
+        ]
+    }
+]

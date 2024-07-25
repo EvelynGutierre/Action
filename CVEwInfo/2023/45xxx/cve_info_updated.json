@@ -1,1 +1,458 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-45128",
+        "Products": [
+            {
+                "Product": "fiber",
+                "Vendor": "gofiber",
+                "Matched Packages": [
+                    "fiber"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45129",
+        "Products": [
+            {
+                "Product": "synapse",
+                "Vendor": "matrix-org",
+                "Matched Packages": [
+                    "synapse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45130",
+        "Products": [
+            {
+                "Product": "frontier",
+                "Vendor": "paritytech",
+                "Matched Packages": [
+                    "frontier"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45131",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45139",
+        "Products": [
+            {
+                "Product": "fonttools",
+                "Vendor": "fonttools",
+                "Matched Packages": [
+                    "fonttools"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45141",
+        "Products": [
+            {
+                "Product": "fiber",
+                "Vendor": "gofiber",
+                "Matched Packages": [
+                    "fiber"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45145",
+        "Products": [
+            {
+                "Product": "redis",
+                "Vendor": "redis",
+                "Matched Packages": [
+                    "redis"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45147",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45158",
+        "Products": [
+            {
+                "Product": "web2py",
+                "Vendor": "web2py",
+                "Matched Packages": [
+                    "web2py"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45661",
+        "Products": [
+            {
+                "Product": "stb",
+                "Vendor": "nothings",
+                "Matched Packages": [
+                    "stb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45662",
+        "Products": [
+            {
+                "Product": "stb",
+                "Vendor": "nothings",
+                "Matched Packages": [
+                    "stb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45663",
+        "Products": [
+            {
+                "Product": "stb",
+                "Vendor": "nothings",
+                "Matched Packages": [
+                    "stb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45664",
+        "Products": [
+            {
+                "Product": "stb",
+                "Vendor": "nothings",
+                "Matched Packages": [
+                    "stb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45666",
+        "Products": [
+            {
+                "Product": "stb",
+                "Vendor": "nothings",
+                "Matched Packages": [
+                    "stb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45667",
+        "Products": [
+            {
+                "Product": "stb",
+                "Vendor": "nothings",
+                "Matched Packages": [
+                    "stb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45670",
+        "Products": [
+            {
+                "Product": "frigate",
+                "Vendor": "blakeblackshear",
+                "Matched Packages": [
+                    "frigate"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45671",
+        "Products": [
+            {
+                "Product": "frigate",
+                "Vendor": "blakeblackshear",
+                "Matched Packages": [
+                    "frigate"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45672",
+        "Products": [
+            {
+                "Product": "frigate",
+                "Vendor": "blakeblackshear",
+                "Matched Packages": [
+                    "frigate"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45675",
+        "Products": [
+            {
+                "Product": "stb",
+                "Vendor": "nothings",
+                "Matched Packages": [
+                    "stb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45676",
+        "Products": [
+            {
+                "Product": "stb",
+                "Vendor": "nothings",
+                "Matched Packages": [
+                    "stb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45677",
+        "Products": [
+            {
+                "Product": "stb",
+                "Vendor": "nothings",
+                "Matched Packages": [
+                    "stb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45678",
+        "Products": [
+            {
+                "Product": "stb",
+                "Vendor": "nothings",
+                "Matched Packages": [
+                    "stb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45679",
+        "Products": [
+            {
+                "Product": "stb",
+                "Vendor": "nothings",
+                "Matched Packages": [
+                    "stb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45680",
+        "Products": [
+            {
+                "Product": "stb",
+                "Vendor": "nothings",
+                "Matched Packages": [
+                    "stb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45681",
+        "Products": [
+            {
+                "Product": "stb",
+                "Vendor": "nothings",
+                "Matched Packages": [
+                    "stb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45682",
+        "Products": [
+            {
+                "Product": "stb",
+                "Vendor": "nothings",
+                "Matched Packages": [
+                    "stb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45683",
+        "Products": [
+            {
+                "Product": "saml",
+                "Vendor": "crewjam",
+                "Matched Packages": [
+                    "saml"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45803",
+        "Products": [
+            {
+                "Product": "urllib3",
+                "Vendor": "urllib3",
+                "Matched Packages": [
+                    "urllib3"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45805",
+        "Products": [
+            {
+                "Product": "pdm",
+                "Vendor": "pdm-project",
+                "Matched Packages": [
+                    "pdm"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45806",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45807",
+        "Products": [
+            {
+                "Product": "security",
+                "Vendor": "opensearch-project",
+                "Matched Packages": [
+                    "security"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45809",
+        "Products": [
+            {
+                "Product": "wagtail",
+                "Vendor": "wagtail",
+                "Matched Packages": [
+                    "wagtail"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45811",
+        "Products": [
+            {
+                "Product": "synchrony",
+                "Vendor": "relative",
+                "Matched Packages": [
+                    "synchrony"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45812",
+        "Products": [
+            {
+                "Product": "router",
+                "Vendor": "apollographql",
+                "Matched Packages": [
+                    "router"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45816",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45821",
+        "Products": [
+            {
+                "Product": "hub",
+                "Vendor": "artifacthub",
+                "Matched Packages": [
+                    "hub"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45822",
+        "Products": [
+            {
+                "Product": "hub",
+                "Vendor": "artifacthub",
+                "Matched Packages": [
+                    "hub"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-45823",
+        "Products": [
+            {
+                "Product": "hub",
+                "Vendor": "artifacthub",
+                "Matched Packages": [
+                    "hub"
+                ]
+            }
+        ]
+    }
+]

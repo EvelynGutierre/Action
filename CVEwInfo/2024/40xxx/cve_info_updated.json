@@ -1,1 +1,62 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-40626",
+        "Products": [
+            {
+                "Product": "outline",
+                "Vendor": "outline",
+                "Matched Packages": [
+                    "outline"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-40627",
+        "Products": [
+            {
+                "Product": "fastapi-opa",
+                "Vendor": "busykoala",
+                "Matched Packages": [
+                    "fastapi-opa"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-40637",
+        "Products": [
+            {
+                "Product": "dbt-core",
+                "Vendor": "dbt-labs",
+                "Matched Packages": [
+                    "dbt-core"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-40640",
+        "Products": [
+            {
+                "Product": "vodozemac",
+                "Vendor": "matrix-org",
+                "Matched Packages": [
+                    "vodozemac"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-40641",
+        "Products": [
+            {
+                "Product": "nuclei",
+                "Vendor": "projectdiscovery",
+                "Matched Packages": [
+                    "nuclei"
+                ]
+            }
+        ]
+    }
+]

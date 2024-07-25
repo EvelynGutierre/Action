@@ -1,1 +1,122 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2024-26130",
+        "Products": [
+            {
+                "Product": "cryptography",
+                "Vendor": "pyca",
+                "Matched Packages": [
+                    "cryptography"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-26134",
+        "Products": [
+            {
+                "Product": "cbor2",
+                "Vendor": "agronholm",
+                "Matched Packages": [
+                    "cbor2"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-26140",
+        "Products": [
+            {
+                "Product": "lrs",
+                "Vendor": "yetanalytics",
+                "Matched Packages": [
+                    "lrs"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-26141",
+        "Products": [
+            {
+                "Product": "rack",
+                "Vendor": "rack",
+                "Matched Packages": [
+                    "rack"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-26146",
+        "Products": [
+            {
+                "Product": "rack",
+                "Vendor": "rack",
+                "Matched Packages": [
+                    "rack"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-26147",
+        "Products": [
+            {
+                "Product": "helm",
+                "Vendor": "helm",
+                "Matched Packages": [
+                    "helm"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-26149",
+        "Products": [
+            {
+                "Product": "vyper",
+                "Vendor": "vyperlang",
+                "Matched Packages": [
+                    "vyper"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-26150",
+        "Products": [
+            {
+                "Product": "backstage",
+                "Vendor": "backstage",
+                "Matched Packages": [
+                    "backstage"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-26151",
+        "Products": [
+            {
+                "Product": "mjml-python",
+                "Vendor": "FelixSchwarz",
+                "Matched Packages": [
+                    "mjml-python"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2024-26152",
+        "Products": [
+            {
+                "Product": "label-studio",
+                "Vendor": "HumanSignal",
+                "Matched Packages": [
+                    "label-studio"
+                ]
+            }
+        ]
+    }
+]

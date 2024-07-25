@@ -1,1 +1,231 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-40015",
+        "Products": [
+            {
+                "Product": "vyper",
+                "Vendor": "vyperlang",
+                "Matched Packages": [
+                    "vyper"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-40027",
+        "Products": [
+            {
+                "Product": "keystone",
+                "Vendor": "keystonejs",
+                "Matched Packages": [
+                    "keystone"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-40030",
+        "Products": [
+            {
+                "Product": "cargo",
+                "Vendor": "rust-lang",
+                "Matched Packages": [
+                    "cargo"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-40034",
+        "Products": [
+            {
+                "Product": "woodpecker",
+                "Vendor": "woodpecker-ci",
+                "Matched Packages": [
+                    "woodpecker"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-40035",
+        "Products": [
+            {
+                "Product": "cms",
+                "Vendor": "craftcms",
+                "Matched Packages": [
+                    "cms"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-40168",
+        "Products": [
+            {
+                "Product": "desktop",
+                "Vendor": "TurboWarp",
+                "Matched Packages": [
+                    "desktop"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-40171",
+        "Products": [
+            {
+                "Product": "dispatch",
+                "Vendor": "Netflix",
+                "Matched Packages": [
+                    "dispatch"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-40175",
+        "Products": [
+            {
+                "Product": "puma",
+                "Vendor": "puma",
+                "Matched Packages": [
+                    "puma"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-40375",
+        "Products": [
+            {
+                "Product": "i",
+                "Vendor": "IBM",
+                "Matched Packages": [
+                    "i"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-40377",
+        "Products": [
+            {
+                "Product": "i",
+                "Vendor": "IBM",
+                "Matched Packages": [
+                    "i"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-40378",
+        "Products": [
+            {
+                "Product": "i",
+                "Vendor": "IBM",
+                "Matched Packages": [
+                    "i"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-40570",
+        "Products": [
+            {
+                "Product": "datasette",
+                "Vendor": "simonw",
+                "Matched Packages": [
+                    "datasette"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-40580",
+        "Products": [
+            {
+                "Product": "freighter",
+                "Vendor": "stellar",
+                "Matched Packages": [
+                    "freighter",
+                    "freighter"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-40581",
+        "Products": [
+            {
+                "Product": "yt-dlp",
+                "Vendor": "yt-dlp",
+                "Matched Packages": [
+                    "yt-dlp"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-40587",
+        "Products": [
+            {
+                "Product": "pyramid",
+                "Vendor": "Pylons",
+                "Matched Packages": [
+                    "pyramid"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-40588",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-40590",
+        "Products": [
+            {
+                "Product": "GitPython",
+                "Vendor": "gitpython-developers",
+                "Matched Packages": [
+                    "GitPython"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-40685",
+        "Products": [
+            {
+                "Product": "i",
+                "Vendor": "IBM",
+                "Matched Packages": [
+                    "i"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-40686",
+        "Products": [
+            {
+                "Product": "i",
+                "Vendor": "IBM",
+                "Matched Packages": [
+                    "i"
+                ]
+            }
+        ]
+    }
+]

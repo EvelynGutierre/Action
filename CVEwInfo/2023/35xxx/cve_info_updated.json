@@ -1,1 +1,242 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-35163",
+        "Products": [
+            {
+                "Product": "vega",
+                "Vendor": "vegaprotocol",
+                "Matched Packages": [
+                    "vega"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-35924",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-35926",
+        "Products": [
+            {
+                "Product": "backstage",
+                "Vendor": "backstage",
+                "Matched Packages": [
+                    "backstage"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-35930",
+        "Products": [
+            {
+                "Product": "spicedb",
+                "Vendor": "authzed",
+                "Matched Packages": [
+                    "spicedb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-35932",
+        "Products": [
+            {
+                "Product": "jcvi",
+                "Vendor": "tanghaibao",
+                "Matched Packages": [
+                    "jcvi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-35934",
+        "Products": [
+            {
+                "Product": "yt-dlp",
+                "Vendor": "yt-dlp",
+                "Matched Packages": [
+                    "yt-dlp"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-35936",
+        "Products": [
+            {
+                "Product": "pandoc",
+                "Vendor": "jgm",
+                "Matched Packages": [
+                    "pandoc"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-35939",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-35940",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-35941",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-35942",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-35943",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-35944",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-35945",
+        "Products": [
+            {
+                "Product": "envoy",
+                "Vendor": "envoyproxy",
+                "Matched Packages": [
+                    "envoy"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-35948",
+        "Products": [
+            {
+                "Product": "novu",
+                "Vendor": "novuhq",
+                "Matched Packages": [
+                    "novu"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-35949",
+        "Products": [
+            {
+                "Product": "libigl",
+                "Vendor": "libigl",
+                "Matched Packages": [
+                    "libigl"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-35950",
+        "Products": [
+            {
+                "Product": "libigl",
+                "Vendor": "libigl",
+                "Matched Packages": [
+                    "libigl"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-35951",
+        "Products": [
+            {
+                "Product": "libigl",
+                "Vendor": "libigl",
+                "Matched Packages": [
+                    "libigl"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-35952",
+        "Products": [
+            {
+                "Product": "libigl",
+                "Vendor": "libigl",
+                "Matched Packages": [
+                    "libigl"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-35953",
+        "Products": [
+            {
+                "Product": "libigl",
+                "Vendor": "libigl",
+                "Matched Packages": [
+                    "libigl"
+                ]
+            }
+        ]
+    }
+]

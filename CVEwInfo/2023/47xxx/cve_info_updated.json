@@ -1,1 +1,310 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-47039",
+        "Products": [
+            {
+                "Product": "perl",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "perl"
+                ]
+            },
+            {
+                "Product": "perl",
+                "Vendor": "n/a",
+                "Matched Packages": [
+                    "perl"
+                ]
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 6",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 7",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 8",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 8",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 8",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Red Hat Enterprise Linux 9",
+                "Vendor": "Red Hat",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Fedora",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Fedora",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Fedora",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            },
+            {
+                "Product": "Fedora",
+                "Vendor": "Fedora",
+                "Matched Packages": []
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-47114",
+        "Products": [
+            {
+                "Product": "fides",
+                "Vendor": "ethyca",
+                "Matched Packages": [
+                    "fides"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-47115",
+        "Products": [
+            {
+                "Product": "label-studio",
+                "Vendor": "HumanSignal",
+                "Matched Packages": [
+                    "label-studio"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-47116",
+        "Products": [
+            {
+                "Product": "label-studio",
+                "Vendor": "HumanSignal",
+                "Matched Packages": [
+                    "label-studio"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-47117",
+        "Products": [
+            {
+                "Product": "label-studio",
+                "Vendor": "HumanSignal",
+                "Matched Packages": [
+                    "label-studio"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-47119",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-47120",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-47121",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-47125",
+        "Products": [
+            {
+                "Product": "html-sanitizer",
+                "Vendor": "TYPO3",
+                "Matched Packages": [
+                    "html-sanitizer"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-47128",
+        "Products": [
+            {
+                "Product": "piccolo",
+                "Vendor": "piccolo-orm",
+                "Matched Packages": [
+                    "piccolo"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-47129",
+        "Products": [
+            {
+                "Product": "cms",
+                "Vendor": "statamic",
+                "Matched Packages": [
+                    "cms"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-47627",
+        "Products": [
+            {
+                "Product": "aiohttp",
+                "Vendor": "aio-libs",
+                "Matched Packages": [
+                    "aiohttp"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-47628",
+        "Products": [
+            {
+                "Product": "datahub",
+                "Vendor": "datahub-project",
+                "Matched Packages": [
+                    "datahub"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-47629",
+        "Products": [
+            {
+                "Product": "datahub",
+                "Vendor": "datahub-project",
+                "Matched Packages": [
+                    "datahub"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-47631",
+        "Products": [
+            {
+                "Product": "vantage6",
+                "Vendor": "vantage6",
+                "Matched Packages": [
+                    "vantage6"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-47640",
+        "Products": [
+            {
+                "Product": "datahub",
+                "Vendor": "datahub-project",
+                "Matched Packages": [
+                    "datahub"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-47641",
+        "Products": [
+            {
+                "Product": "aiohttp",
+                "Vendor": "aio-libs",
+                "Matched Packages": [
+                    "aiohttp"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-47642",
+        "Products": [
+            {
+                "Product": "zulip",
+                "Vendor": "zulip",
+                "Matched Packages": [
+                    "zulip"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-47741",
+        "Products": [
+            {
+                "Product": "i",
+                "Vendor": "IBM",
+                "Matched Packages": [
+                    "i"
+                ]
+            },
+            {
+                "Product": "Db2 Mirror for i",
+                "Vendor": "IBM",
+                "Matched Packages": []
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-47777",
+        "Products": [
+            {
+                "Product": "WooCommerce",
+                "Vendor": "Automattic",
+                "Matched Packages": [
+                    "WooCommerce",
+                    "WooCommerce"
+                ]
+            },
+            {
+                "Product": "WooCommerce Blocks",
+                "Vendor": "Automattic",
+                "Matched Packages": []
+            }
+        ]
+    }
+]

@@ -1,1 +1,86 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-29003",
+        "Products": [
+            {
+                "Product": "kit",
+                "Vendor": "sveltejs",
+                "Matched Packages": [
+                    "kit"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-29005",
+        "Products": [
+            {
+                "Product": "Flask-AppBuilder",
+                "Vendor": "dpgaspar",
+                "Matched Packages": [
+                    "Flask-AppBuilder"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-29006",
+        "Products": [
+            {
+                "Product": "order",
+                "Vendor": "pluginsGLPI",
+                "Matched Packages": [
+                    "order"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-29008",
+        "Products": [
+            {
+                "Product": "kit",
+                "Vendor": "sveltejs",
+                "Matched Packages": [
+                    "kit"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-29193",
+        "Products": [
+            {
+                "Product": "spicedb",
+                "Vendor": "authzed",
+                "Matched Packages": [
+                    "spicedb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-29196",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-29403",
+        "Products": [
+            {
+                "Product": "runtime",
+                "Vendor": "Go standard library",
+                "Matched Packages": [
+                    "runtime"
+                ]
+            }
+        ]
+    }
+]

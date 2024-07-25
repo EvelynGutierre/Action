@@ -1,1 +1,170 @@
-[]
+[
+    {
+        "CVE ID": "CVE-2023-43064",
+        "Products": [
+            {
+                "Product": "i",
+                "Vendor": "IBM",
+                "Matched Packages": [
+                    "i"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-43654",
+        "Products": [
+            {
+                "Product": "serve",
+                "Vendor": "pytorch",
+                "Matched Packages": [
+                    "serve"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-43655",
+        "Products": [
+            {
+                "Product": "composer",
+                "Vendor": "composer",
+                "Matched Packages": [
+                    "composer"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-43659",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-43661",
+        "Products": [
+            {
+                "Product": "cachet",
+                "Vendor": "cachethq",
+                "Matched Packages": [
+                    "cachet"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-43791",
+        "Products": [
+            {
+                "Product": "label-studio",
+                "Vendor": "HumanSignal",
+                "Matched Packages": [
+                    "label-studio"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-43794",
+        "Products": [
+            {
+                "Product": "nocodb",
+                "Vendor": "nocodb",
+                "Matched Packages": [
+                    "nocodb"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-43796",
+        "Products": [
+            {
+                "Product": "synapse",
+                "Vendor": "matrix-org",
+                "Matched Packages": [
+                    "synapse"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-43797",
+        "Products": [
+            {
+                "Product": "bigbluebutton",
+                "Vendor": "bigbluebutton",
+                "Matched Packages": [
+                    "bigbluebutton"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-43798",
+        "Products": [
+            {
+                "Product": "bigbluebutton",
+                "Vendor": "bigbluebutton",
+                "Matched Packages": [
+                    "bigbluebutton"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-43799",
+        "Products": [
+            {
+                "Product": "altair",
+                "Vendor": "altair-graphql",
+                "Matched Packages": [
+                    "altair"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-43804",
+        "Products": [
+            {
+                "Product": "urllib3",
+                "Vendor": "urllib3",
+                "Matched Packages": [
+                    "urllib3"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-43813",
+        "Products": [
+            {
+                "Product": "glpi",
+                "Vendor": "glpi-project",
+                "Matched Packages": [
+                    "glpi"
+                ]
+            }
+        ]
+    },
+    {
+        "CVE ID": "CVE-2023-43814",
+        "Products": [
+            {
+                "Product": "discourse",
+                "Vendor": "discourse",
+                "Matched Packages": [
+                    "discourse"
+                ]
+            }
+        ]
+    }
+]

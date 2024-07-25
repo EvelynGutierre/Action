@@ -1,0 +1,12 @@
+[
+    {
+        "CVE ID": "CVE-2023-30767",
+        "Products": [
+            {
+                "Product": "TensorFlow",
+                "Vendor": "n/a",
+                "Matched Packages": []
+            }
+        ]
+    }
+]
